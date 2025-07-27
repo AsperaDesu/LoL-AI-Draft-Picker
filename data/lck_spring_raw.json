@@ -1,0 +1,10712 @@
+[
+  {
+    "match": "Week 9 — Kwangdong Freecs vs KT Rolster",
+    "patch": "14.5",
+    "winner": "KT Rolster",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Lee Sin",
+      "Rumble",
+      "Orianna",
+      "Kindred",
+      "Renekton"
+    ],
+    "red_bans": [
+      "Senna",
+      "Kalista",
+      "Varus",
+      "Lulu",
+      "Draven"
+    ],
+    "blue_picks": [
+      "Vi",
+      "Ahri",
+      "Aatrox",
+      "Caitlyn",
+      "Ashe"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Taliyah",
+      "Nami",
+      "K'Sante",
+      "Rammus"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Mid",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — KT Rolster vs Kwangdong Freecs",
+    "patch": "14.5",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "KT Rolster",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Sejuani",
+      "Varus",
+      "Viego",
+      "Aatrox",
+      "Vi"
+    ],
+    "red_bans": [
+      "Lee Sin",
+      "Senna",
+      "Ashe",
+      "Ahri",
+      "Orianna"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Rumble",
+      "Xin Zhao",
+      "Syndra",
+      "Nautilus"
+    ],
+    "red_picks": [
+      "Neeko",
+      "Taliyah",
+      "Draven",
+      "Jax",
+      "K'Sante"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Top",
+        "Jungle",
+        "Mid",
+        "Support"
+      ],
+      "red": [
+        "Support",
+        "Mid",
+        "Bot",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — OKSavingsBank BRION vs FearX",
+    "patch": "14.5",
+    "winner": "FearX",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Ahri",
+      "Kalista",
+      "Twisted Fate",
+      "K'Sante",
+      "Rakan"
+    ],
+    "red_bans": [
+      "Smolder",
+      "Senna",
+      "Varus",
+      "Jinx",
+      "Lucian"
+    ],
+    "blue_picks": [
+      "Orianna",
+      "Renekton",
+      "Jax",
+      "Kai'Sa",
+      "Rell"
+    ],
+    "red_picks": [
+      "Zeri",
+      "Taliyah",
+      "Vi",
+      "Udyr",
+      "Alistar"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Top",
+        "Jungle",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — FearX vs OKSavingsBank BRION",
+    "patch": "14.5",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "FearX",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Renekton",
+      "Smolder",
+      "Kalista",
+      "Jinx",
+      "Caitlyn"
+    ],
+    "red_bans": [
+      "Ahri",
+      "Varus",
+      "Twisted Fate",
+      "K'Sante",
+      "Vi"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Nautilus",
+      "Taliyah",
+      "Xin Zhao",
+      "Gnar"
+    ],
+    "red_picks": [
+      "Orianna",
+      "Lee Sin",
+      "Udyr",
+      "Zeri",
+      "Rakan"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — DRX vs T1",
+    "patch": "14.5",
+    "winner": "T1",
+    "blue_team": "DRX",
+    "red_team": "T1",
+    "blue_bans": [
+      "Ashe",
+      "Varus",
+      "Orianna",
+      "K'Sante",
+      "Tristana"
+    ],
+    "red_bans": [
+      "Vi",
+      "Senna",
+      "Kalista",
+      "Jax",
+      "Taliyah"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Rell",
+      "Nami",
+      "Aatrox",
+      "Ahri"
+    ],
+    "red_picks": [
+      "Aphelios",
+      "Maokai",
+      "Lulu",
+      "Twisted Fate",
+      "Corki"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — DRX vs T1",
+    "patch": "14.5",
+    "winner": "T1",
+    "blue_team": "DRX",
+    "red_team": "T1",
+    "blue_bans": [
+      "Ashe",
+      "Varus",
+      "Orianna",
+      "Corki",
+      "Taliyah"
+    ],
+    "red_bans": [
+      "Vi",
+      "Senna",
+      "Kalista",
+      "Lulu",
+      "Milio"
+    ],
+    "blue_picks": [
+      "Maokai",
+      "Tristana",
+      "Renekton",
+      "Xayah",
+      "Rakan"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Rell",
+      "Nami",
+      "Twisted Fate",
+      "Hwei"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Mid",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — Dplus KIA vs Hanwha Life Esports",
+    "patch": "14.5",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "Dplus KIA",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Poppy",
+      "Maokai",
+      "Varus",
+      "Xin Zhao",
+      "Nautilus"
+    ],
+    "red_bans": [
+      "Senna",
+      "Lee Sin",
+      "Kalista",
+      "Lucian",
+      "Rakan"
+    ],
+    "blue_picks": [
+      "Vi",
+      "Renekton",
+      "Taliyah",
+      "Jinx",
+      "Thresh"
+    ],
+    "red_picks": [
+      "Zeri",
+      "Rell",
+      "Ahri",
+      "K'Sante",
+      "Nocturne"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Top",
+        "Mid",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — Hanwha Life Esports vs Dplus KIA",
+    "patch": "14.5",
+    "winner": "Dplus KIA",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Rumble",
+      "Lee Sin",
+      "Renekton",
+      "Karma",
+      "K'Sante"
+    ],
+    "red_bans": [
+      "Senna",
+      "Varus",
+      "Kalista",
+      "Tristana",
+      "Twisted Fate"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Maokai",
+      "Nami",
+      "Yone",
+      "Gnar"
+    ],
+    "red_picks": [
+      "Aphelios",
+      "Vi",
+      "Lulu",
+      "Udyr",
+      "Ahri"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — FearX vs Nongshim RedForce",
+    "patch": "14.5",
+    "winner": "Nongshim RedForce",
+    "blue_team": "FearX",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Smolder",
+      "Vi",
+      "Senna",
+      "Rell",
+      "Poppy"
+    ],
+    "red_bans": [
+      "Kalista",
+      "Ahri",
+      "Varus",
+      "Orianna",
+      "Tristana"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Maokai",
+      "Nami",
+      "Renekton",
+      "Corki"
+    ],
+    "red_picks": [
+      "Zeri",
+      "Taliyah",
+      "Lulu",
+      "Lee Sin",
+      "Udyr"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — Nongshim RedForce vs FearX",
+    "patch": "14.5",
+    "winner": "FearX",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Varus",
+      "Ahri",
+      "Twisted Fate",
+      "Orianna",
+      "Karma"
+    ],
+    "red_bans": [
+      "Smolder",
+      "Senna",
+      "Kalista",
+      "Lucian",
+      "Rakan"
+    ],
+    "blue_picks": [
+      "Vi",
+      "K'Sante",
+      "Taliyah",
+      "Jinx",
+      "Thresh"
+    ],
+    "red_picks": [
+      "Zeri",
+      "Jax",
+      "Renekton",
+      "Akali",
+      "Rell"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Top",
+        "Mid",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Top",
+        "Mid",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — Nongshim RedForce vs FearX",
+    "patch": "14.5",
+    "winner": "FearX",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Varus",
+      "Ahri",
+      "Twisted Fate",
+      "K'Sante",
+      "Gnar"
+    ],
+    "red_bans": [
+      "Smolder",
+      "Senna",
+      "Kalista",
+      "Aurelion Sol",
+      "Taliyah"
+    ],
+    "blue_picks": [
+      "Vi",
+      "Lucian",
+      "Nami",
+      "Udyr",
+      "Karma"
+    ],
+    "red_picks": [
+      "Zeri",
+      "Jax",
+      "Lulu",
+      "Renekton",
+      "Orianna"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — OKSavingsBank BRION vs Gen.G",
+    "patch": "14.5",
+    "winner": "Gen.G",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Twisted Fate",
+      "Lucian",
+      "Ashe",
+      "Orianna",
+      "Taliyah"
+    ],
+    "red_bans": [
+      "Smolder",
+      "Senna",
+      "Sejuani",
+      "Ahri",
+      "Renekton"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Renata Glasc",
+      "Vi",
+      "Karma",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Varus",
+      "Rell",
+      "Hwei",
+      "K'Sante",
+      "Aurelion Sol"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — Gen.G vs OKSavingsBank BRION",
+    "patch": "14.5",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "Gen.G",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Sejuani",
+      "Smolder",
+      "Orianna",
+      "Vi",
+      "Renata Glasc"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Senna",
+      "Ashe",
+      "Yone",
+      "Tristana"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Maokai",
+      "Quinn",
+      "Jax",
+      "Sylas"
+    ],
+    "red_picks": [
+      "Renekton",
+      "Varus",
+      "Taliyah",
+      "Xin Zhao",
+      "Nautilus"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle",
+        "Mid"
+      ],
+      "red": [
+        "Top",
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — Dplus KIA vs Kwangdong Freecs",
+    "patch": "14.5",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "Dplus KIA",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Aatrox",
+      "Taliyah",
+      "Hwei",
+      "Ahri",
+      "Aurelion Sol"
+    ],
+    "red_bans": [
+      "Lee Sin",
+      "Senna",
+      "Ashe",
+      "Rumble",
+      "Twisted Fate"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Renata Glasc",
+      "Rell",
+      "Tristana",
+      "Volibear"
+    ],
+    "red_picks": [
+      "Varus",
+      "Viego",
+      "Neeko",
+      "Renekton",
+      "Syndra"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — Dplus KIA vs Kwangdong Freecs",
+    "patch": "14.5",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "Dplus KIA",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Hwei",
+      "Taliyah",
+      "Renekton",
+      "Poppy",
+      "Sejuani"
+    ],
+    "red_bans": [
+      "Lee Sin",
+      "Senna",
+      "Ashe",
+      "Twisted Fate",
+      "Maokai"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Rell",
+      "Tristana",
+      "Rumble",
+      "Vi"
+    ],
+    "red_picks": [
+      "Varus",
+      "Aatrox",
+      "Aurelion Sol",
+      "Viego",
+      "Alistar"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Top",
+        "Mid",
+        "Jungle",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — KT Rolster vs Hanwha Life Esports",
+    "patch": "14.5",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "KT Rolster",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Maokai",
+      "Varus",
+      "Sejuani",
+      "Rakan",
+      "Lulu"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Kalista",
+      "Senna",
+      "Lucian",
+      "Ashe"
+    ],
+    "blue_picks": [
+      "Vi",
+      "Ahri",
+      "Renekton",
+      "Jinx",
+      "Alistar"
+    ],
+    "red_picks": [
+      "Zeri",
+      "Taliyah",
+      "Poppy",
+      "Jax",
+      "Bard"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Mid",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — Hanwha Life Esports vs KT Rolster",
+    "patch": "14.5",
+    "winner": "KT Rolster",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Orianna",
+      "Renekton",
+      "Kalista",
+      "K'Sante",
+      "Corki"
+    ],
+    "red_bans": [
+      "Maokai",
+      "Sejuani",
+      "Vi",
+      "Poppy",
+      "Wukong"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Nautilus",
+      "Taliyah",
+      "Xin Zhao",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Smolder",
+      "Lee Sin",
+      "Rakan",
+      "Annie",
+      "Gnar"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — KT Rolster vs Hanwha Life Esports",
+    "patch": "14.5",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "KT Rolster",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Maokai",
+      "Varus",
+      "Sejuani",
+      "Rakan",
+      "Lulu"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Kalista",
+      "Senna",
+      "Ashe",
+      "Jinx"
+    ],
+    "blue_picks": [
+      "Vi",
+      "Renekton",
+      "Taliyah",
+      "Lucian",
+      "Nami"
+    ],
+    "red_picks": [
+      "Poppy",
+      "Zeri",
+      "Corki",
+      "Gnar",
+      "Camille"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Top",
+        "Mid",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Jungle",
+        "Bot",
+        "Mid",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — Nongshim RedForce vs T1",
+    "patch": "14.5",
+    "winner": "T1",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "T1",
+    "blue_bans": [
+      "Orianna",
+      "Ashe",
+      "Kalista",
+      "Nautilus",
+      "Jayce"
+    ],
+    "red_bans": [
+      "Vi",
+      "Maokai",
+      "Senna",
+      "Lucian",
+      "Rakan"
+    ],
+    "blue_picks": [
+      "Lee Sin",
+      "Udyr",
+      "Karma",
+      "Smolder",
+      "Milio"
+    ],
+    "red_picks": [
+      "Taliyah",
+      "Sejuani",
+      "Varus",
+      "Gnar",
+      "Rumble"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Top",
+        "Mid",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Bot",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — Nongshim RedForce vs T1",
+    "patch": "14.5",
+    "winner": "T1",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "T1",
+    "blue_bans": [
+      "Varus",
+      "Aatrox",
+      "Caitlyn",
+      "Nocturne",
+      "Jayce"
+    ],
+    "red_bans": [
+      "Vi",
+      "Maokai",
+      "Nautilus",
+      "Hwei",
+      "Rell"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Renata Glasc",
+      "Udyr",
+      "Tristana",
+      "Sejuani"
+    ],
+    "red_picks": [
+      "Orianna",
+      "Senna",
+      "Tahm Kench",
+      "Lee Sin",
+      "Twisted Fate"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — DRX vs Gen.G",
+    "patch": "14.5",
+    "winner": "Gen.G",
+    "blue_team": "DRX",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Varus",
+      "Twisted Fate",
+      "Sejuani",
+      "Taliyah",
+      "Rumble"
+    ],
+    "red_bans": [
+      "Senna",
+      "Kalista",
+      "Smolder",
+      "Lulu",
+      "Rakan"
+    ],
+    "blue_picks": [
+      "Maokai",
+      "Tristana",
+      "Jayce",
+      "Caitlyn",
+      "Ashe"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Nami",
+      "Rell",
+      "Orianna",
+      "K'Sante"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Mid",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 9 — DRX vs Gen.G",
+    "patch": "14.5",
+    "winner": "Gen.G",
+    "blue_team": "DRX",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Varus",
+      "Maokai",
+      "Sejuani",
+      "K'Sante",
+      "Taliyah"
+    ],
+    "red_bans": [
+      "Senna",
+      "Kalista",
+      "Smolder",
+      "Malphite",
+      "Ahri"
+    ],
+    "blue_picks": [
+      "Vi",
+      "Lucian",
+      "Nami",
+      "Renekton",
+      "Hwei"
+    ],
+    "red_picks": [
+      "Jax",
+      "Zeri",
+      "Lulu",
+      "Twisted Fate",
+      "Yone"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — Dplus KIA vs Gen.G",
+    "patch": "14.4",
+    "winner": "Gen.G",
+    "blue_team": "Dplus KIA",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Taliyah",
+      "Twisted Fate",
+      "Varus",
+      "Corki",
+      "Jayce"
+    ],
+    "red_bans": [
+      "Senna",
+      "Rell",
+      "Kalista",
+      "Lulu",
+      "Nautilus"
+    ],
+    "blue_picks": [
+      "Lee Sin",
+      "Annie",
+      "K'Sante",
+      "Xayah",
+      "Rakan"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Nami",
+      "Sejuani",
+      "Tristana",
+      "Udyr"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Mid",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — Gen.G vs Dplus KIA",
+    "patch": "14.4",
+    "winner": "Dplus KIA",
+    "blue_team": "Gen.G",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Karma",
+      "Rell",
+      "Smolder",
+      "Rakan",
+      "Lucian"
+    ],
+    "red_bans": [
+      "Kalista",
+      "Nautilus",
+      "Senna",
+      "Twisted Fate",
+      "Ashe"
+    ],
+    "blue_picks": [
+      "Sejuani",
+      "Varus",
+      "Jayce",
+      "Taliyah",
+      "Tahm Kench"
+    ],
+    "red_picks": [
+      "Annie",
+      "Lee Sin",
+      "K'Sante",
+      "Jinx",
+      "Thresh"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Top",
+        "Mid",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — Dplus KIA vs Gen.G",
+    "patch": "14.4",
+    "winner": "Gen.G",
+    "blue_team": "Dplus KIA",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Twisted Fate",
+      "Ahri",
+      "Nautilus",
+      "Tristana",
+      "Jayce"
+    ],
+    "red_bans": [
+      "Senna",
+      "Rell",
+      "Ashe",
+      "K'Sante",
+      "Aatrox"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Lee Sin",
+      "Renata Glasc",
+      "Annie",
+      "Gnar"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Maokai",
+      "Milio",
+      "Renekton",
+      "Corki"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — OKSavingsBank BRION vs Nongshim RedForce",
+    "patch": "14.4",
+    "winner": "Nongshim RedForce",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Vi",
+      "Rell",
+      "Ashe",
+      "Taliyah",
+      "Orianna"
+    ],
+    "red_bans": [
+      "Smolder",
+      "Nautilus",
+      "Renekton",
+      "Corki",
+      "Udyr"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Renata Glasc",
+      "Maokai",
+      "Aatrox",
+      "Tristana"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Sejuani",
+      "Nami",
+      "K'Sante",
+      "Jayce"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — Nongshim RedForce vs OKSavingsBank BRION",
+    "patch": "14.4",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Senna",
+      "Varus",
+      "Sejuani",
+      "Poppy",
+      "Renekton"
+    ],
+    "red_bans": [
+      "Vi",
+      "Smolder",
+      "Kalista",
+      "Taliyah",
+      "K'Sante"
+    ],
+    "blue_picks": [
+      "Rell",
+      "Zeri",
+      "Lulu",
+      "Tristana",
+      "Udyr"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Orianna",
+      "Nami",
+      "Xin Zhao",
+      "Aatrox"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — OKSavingsBank BRION vs Nongshim RedForce",
+    "patch": "14.4",
+    "winner": "Nongshim RedForce",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Vi",
+      "Ashe",
+      "Maokai",
+      "Taliyah",
+      "Ahri"
+    ],
+    "red_bans": [
+      "Smolder",
+      "Sejuani",
+      "Nautilus",
+      "Poppy",
+      "Xin Zhao"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Renata Glasc",
+      "Orianna",
+      "Viego",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Xayah",
+      "Rell",
+      "Rakan",
+      "Renekton",
+      "Karma"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — KT Rolster vs DRX",
+    "patch": "14.4",
+    "winner": "DRX",
+    "blue_team": "KT Rolster",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Sejuani",
+      "Nocturne",
+      "Smolder",
+      "Ahri",
+      "Rakan"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Nautilus",
+      "Senna",
+      "Twisted Fate",
+      "K'Sante"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Xin Zhao",
+      "Neeko",
+      "Syndra",
+      "Gnar"
+    ],
+    "red_picks": [
+      "Varus",
+      "Lee Sin",
+      "Hwei",
+      "Taliyah",
+      "Quinn"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Jungle",
+        "Bot",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — DRX vs KT Rolster",
+    "patch": "14.4",
+    "winner": "KT Rolster",
+    "blue_team": "DRX",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Ashe",
+      "Vi",
+      "Kalista",
+      "Corki",
+      "Twisted Fate"
+    ],
+    "red_bans": [
+      "Sejuani",
+      "Nocturne",
+      "Hwei",
+      "Renekton",
+      "Karma"
+    ],
+    "blue_picks": [
+      "Nautilus",
+      "Xin Zhao",
+      "Smolder",
+      "Taliyah",
+      "Gnar"
+    ],
+    "red_picks": [
+      "Senna",
+      "Lee Sin",
+      "Ornn",
+      "Orianna",
+      "Camille"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Jungle",
+        "Bot",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — KT Rolster vs DRX",
+    "patch": "14.4",
+    "winner": "DRX",
+    "blue_team": "KT Rolster",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Sejuani",
+      "Nocturne",
+      "Smolder",
+      "Zeri",
+      "Rakan"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Kalista",
+      "Senna",
+      "Orianna",
+      "Taliyah"
+    ],
+    "blue_picks": [
+      "Varus",
+      "K'Sante",
+      "Nautilus",
+      "Annie",
+      "Viego"
+    ],
+    "red_picks": [
+      "Vi",
+      "Renekton",
+      "Ahri",
+      "Xayah",
+      "Braum"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Top",
+        "Support",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Jungle",
+        "Top",
+        "Mid",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — Kwangdong Freecs vs FearX",
+    "patch": "14.4",
+    "winner": "FearX",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Ahri",
+      "Vi",
+      "Twisted Fate",
+      "Lee Sin",
+      "Nocturne"
+    ],
+    "red_bans": [
+      "Aatrox",
+      "Senna",
+      "Ashe",
+      "Poppy",
+      "Renekton"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Renata Glasc",
+      "Hwei",
+      "Rell",
+      "Gnar"
+    ],
+    "red_picks": [
+      "Varus",
+      "Taliyah",
+      "Neeko",
+      "K'Sante",
+      "Xin Zhao"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — FearX vs Kwangdong Freecs",
+    "patch": "14.4",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "FearX",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Aatrox",
+      "Kalista",
+      "Ashe",
+      "Lee Sin",
+      "Poppy"
+    ],
+    "red_bans": [
+      "Ahri",
+      "Senna",
+      "Vi",
+      "Alistar",
+      "Taliyah"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Jax",
+      "Twisted Fate",
+      "Karma",
+      "Nautilus"
+    ],
+    "red_picks": [
+      "Rell",
+      "Miss Fortune",
+      "Renekton",
+      "Sejuani",
+      "Aurelion Sol"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Top",
+        "Mid",
+        "Support"
+      ],
+      "red": [
+        "Support",
+        "Bot",
+        "Top",
+        "Jungle",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — FearX vs Kwangdong Freecs",
+    "patch": "14.4",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "FearX",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Aatrox",
+      "Kalista",
+      "Ashe",
+      "Lucian",
+      "Rakan"
+    ],
+    "red_bans": [
+      "Ahri",
+      "Senna",
+      "Vi",
+      "Orianna",
+      "Karma"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Jax",
+      "Twisted Fate",
+      "Alistar",
+      "Akali"
+    ],
+    "red_picks": [
+      "Rell",
+      "Taliyah",
+      "Renekton",
+      "Miss Fortune",
+      "Lee Sin"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Top",
+        "Support",
+        "Mid"
+      ],
+      "red": [
+        "Support",
+        "Mid",
+        "Top",
+        "Bot",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — Hanwha Life Esports vs T1",
+    "patch": "14.4",
+    "winner": "T1",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "T1",
+    "blue_bans": [
+      "Orianna",
+      "Lucian",
+      "Kalista",
+      "Caitlyn",
+      "Ashe"
+    ],
+    "red_bans": [
+      "Senna",
+      "Vi",
+      "Varus",
+      "Rakan",
+      "Renata Glasc"
+    ],
+    "blue_picks": [
+      "Maokai",
+      "Jayce",
+      "Taliyah",
+      "Smolder",
+      "Alistar"
+    ],
+    "red_picks": [
+      "Aatrox",
+      "Ahri",
+      "Lee Sin",
+      "Nautilus",
+      "Zeri"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Top",
+        "Mid",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Top",
+        "Mid",
+        "Jungle",
+        "Support",
+        "Bot"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — T1 vs Hanwha Life Esports",
+    "patch": "14.4",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "T1",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Maokai",
+      "Vi",
+      "Sejuani",
+      "Jayce",
+      "Nautilus"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Orianna",
+      "Senna",
+      "Nocturne",
+      "Poppy"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Aatrox",
+      "Neeko",
+      "Taliyah",
+      "Xin Zhao"
+    ],
+    "red_picks": [
+      "Varus",
+      "Ahri",
+      "Lee Sin",
+      "K'Sante",
+      "Rakan"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Top",
+        "Support",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — T1 vs Hanwha Life Esports",
+    "patch": "14.4",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "T1",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Maokai",
+      "Vi",
+      "Sejuani",
+      "Alistar",
+      "Nautilus"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Orianna",
+      "Senna",
+      "Neeko",
+      "Renata Glasc"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Lee Sin",
+      "Aatrox",
+      "Annie",
+      "Bard"
+    ],
+    "red_picks": [
+      "Varus",
+      "Rell",
+      "Jayce",
+      "Ahri",
+      "Poppy"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Top",
+        "Mid",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — Gen.G vs Nongshim RedForce",
+    "patch": "14.4",
+    "winner": "Nongshim RedForce",
+    "blue_team": "Gen.G",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Smolder",
+      "Vi",
+      "K'Sante",
+      "Jax",
+      "Orianna"
+    ],
+    "red_bans": [
+      "Jayce",
+      "Nautilus",
+      "Twisted Fate",
+      "Rumble",
+      "Corki"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Lee Sin",
+      "Tahm Kench",
+      "Aatrox",
+      "Taliyah"
+    ],
+    "red_picks": [
+      "Kalista",
+      "Rell",
+      "Renata Glasc",
+      "Ahri",
+      "Vayne"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — Gen.G vs Nongshim RedForce",
+    "patch": "14.4",
+    "winner": "Nongshim RedForce",
+    "blue_team": "Gen.G",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Smolder",
+      "Vi",
+      "K'Sante",
+      "Tristana",
+      "Renekton"
+    ],
+    "red_bans": [
+      "Jayce",
+      "Nautilus",
+      "Twisted Fate",
+      "Corki",
+      "Ahri"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Tahm Kench",
+      "Lee Sin",
+      "Kassadin",
+      "Rumble"
+    ],
+    "red_picks": [
+      "Kalista",
+      "Rell",
+      "Renata Glasc",
+      "Taliyah",
+      "Aatrox"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — OKSavingsBank BRION vs KT Rolster",
+    "patch": "14.4",
+    "winner": "KT Rolster",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Taliyah",
+      "Ashe",
+      "Orianna",
+      "Tristana",
+      "Twisted Fate"
+    ],
+    "red_bans": [
+      "Sejuani",
+      "Ahri",
+      "Kalista",
+      "Viego",
+      "Renekton"
+    ],
+    "blue_picks": [
+      "Nautilus",
+      "Smolder",
+      "Karma",
+      "Aatrox",
+      "Rell"
+    ],
+    "red_picks": [
+      "Senna",
+      "Lee Sin",
+      "Ornn",
+      "K'Sante",
+      "Corki"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Bot",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — OKSavingsBank BRION vs KT Rolster",
+    "patch": "14.4",
+    "winner": "KT Rolster",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Taliyah",
+      "Ashe",
+      "Orianna",
+      "Viego",
+      "Rumble"
+    ],
+    "red_bans": [
+      "Sejuani",
+      "Ahri",
+      "Kalista",
+      "Hwei",
+      "Aatrox"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Lee Sin",
+      "Tahm Kench",
+      "Renekton",
+      "Corki"
+    ],
+    "red_picks": [
+      "Smolder",
+      "Nautilus",
+      "Karma",
+      "Kindred",
+      "K'Sante"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — DRX vs FearX",
+    "patch": "14.4",
+    "winner": "FearX",
+    "blue_team": "DRX",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Vi",
+      "Nautilus",
+      "Ashe",
+      "Rakan",
+      "Aatrox"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Kalista",
+      "Orianna",
+      "Renekton",
+      "Alistar"
+    ],
+    "blue_picks": [
+      "Smolder",
+      "Karma",
+      "Xin Zhao",
+      "K'Sante",
+      "Maokai"
+    ],
+    "red_picks": [
+      "Ahri",
+      "Varus",
+      "Jax",
+      "Rell",
+      "Twisted Fate"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — FearX vs DRX",
+    "patch": "14.4",
+    "winner": "DRX",
+    "blue_team": "FearX",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Poppy",
+      "Lucian",
+      "Smolder",
+      "Alistar",
+      "Udyr"
+    ],
+    "red_bans": [
+      "Nautilus",
+      "Kalista",
+      "Senna",
+      "K'Sante",
+      "Renata Glasc"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Maokai",
+      "Tristana",
+      "Rumble",
+      "Rell"
+    ],
+    "red_picks": [
+      "Orianna",
+      "Nocturne",
+      "Zeri",
+      "Renekton",
+      "Rakan"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Top",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Bot",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — Dplus KIA vs T1",
+    "patch": "14.4",
+    "winner": "T1",
+    "blue_team": "Dplus KIA",
+    "red_team": "T1",
+    "blue_bans": [
+      "Orianna",
+      "Nocturne",
+      "Ashe",
+      "Draven",
+      "Hwei"
+    ],
+    "red_bans": [
+      "Senna",
+      "Vi",
+      "Karma",
+      "K'Sante",
+      "Renekton"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Lee Sin",
+      "Sona",
+      "Annie",
+      "Gnar"
+    ],
+    "red_picks": [
+      "Aatrox",
+      "Nami",
+      "Rell",
+      "Ahri",
+      "Caitlyn"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Top",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Bot"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — Dplus KIA vs T1",
+    "patch": "14.4",
+    "winner": "T1",
+    "blue_team": "Dplus KIA",
+    "red_team": "T1",
+    "blue_bans": [
+      "Orianna",
+      "Corki",
+      "Ashe",
+      "Rell",
+      "Ahri"
+    ],
+    "red_bans": [
+      "Senna",
+      "Vi",
+      "Sejuani",
+      "Lee Sin",
+      "K'Sante"
+    ],
+    "blue_picks": [
+      "Karma",
+      "Smolder",
+      "Milio",
+      "Maokai",
+      "Renekton"
+    ],
+    "red_picks": [
+      "Aatrox",
+      "Lucian",
+      "Nami",
+      "Taliyah",
+      "Nocturne"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Top",
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — Hanwha Life Esports vs Kwangdong Freecs",
+    "patch": "14.4",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Karma",
+      "Ashe",
+      "Kalista",
+      "Alistar",
+      "Taliyah"
+    ],
+    "red_bans": [
+      "Maokai",
+      "Senna",
+      "Vi",
+      "Renata Glasc",
+      "Rakan"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Lee Sin",
+      "Ahri",
+      "Thresh",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Zeri",
+      "Aatrox",
+      "Viego",
+      "Nautilus",
+      "Orianna"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Support",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Top",
+        "Jungle",
+        "Support",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — Kwangdong Freecs vs Hanwha Life Esports",
+    "patch": "14.4",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Maokai",
+      "Vi",
+      "Nautilus",
+      "Lee Sin",
+      "Rakan"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Senna",
+      "Karma",
+      "Renata Glasc",
+      "Alistar"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Viego",
+      "Aatrox",
+      "Leona",
+      "Syndra"
+    ],
+    "red_picks": [
+      "Varus",
+      "Orianna",
+      "Rell",
+      "Irelia",
+      "Braum"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Top",
+        "Support",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 8 — Hanwha Life Esports vs Kwangdong Freecs",
+    "patch": "14.4",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Karma",
+      "Poppy",
+      "Ashe",
+      "Jax",
+      "Renekton"
+    ],
+    "red_bans": [
+      "Maokai",
+      "Senna",
+      "Vi",
+      "Gnar",
+      "Renata Glasc"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Lee Sin",
+      "Ahri",
+      "Alistar",
+      "Twisted Fate"
+    ],
+    "red_picks": [
+      "Sejuani",
+      "Taliyah",
+      "Varus",
+      "Aatrox",
+      "Rakan"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Support",
+        "Top"
+      ],
+      "red": [
+        "Jungle",
+        "Mid",
+        "Bot",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — Dplus KIA vs FearX",
+    "patch": "14.4",
+    "winner": "FearX",
+    "blue_team": "Dplus KIA",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Ahri",
+      "Nautilus",
+      "Irelia",
+      "Orianna",
+      "K'Sante"
+    ],
+    "red_bans": [
+      "Rell",
+      "Lucian",
+      "Karma",
+      "Aatrox",
+      "Twisted Fate"
+    ],
+    "blue_picks": [
+      "Ashe",
+      "Caitlyn",
+      "Poppy",
+      "LeBlanc",
+      "Renekton"
+    ],
+    "red_picks": [
+      "Kalista",
+      "Nocturne",
+      "Neeko",
+      "Udyr",
+      "Tristana"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — Dplus KIA vs FearX",
+    "patch": "14.4",
+    "winner": "FearX",
+    "blue_team": "Dplus KIA",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Ahri",
+      "Nautilus",
+      "Yone",
+      "Gnar",
+      "Renata Glasc"
+    ],
+    "red_bans": [
+      "Rell",
+      "Lucian",
+      "Kalista",
+      "Lee Sin",
+      "Viego"
+    ],
+    "blue_picks": [
+      "Karma",
+      "Senna",
+      "Tahm Kench",
+      "Aatrox",
+      "Maokai"
+    ],
+    "red_picks": [
+      "Varus",
+      "Vi",
+      "Taliyah",
+      "Bard",
+      "Camille"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — FearX vs Dplus KIA",
+    "patch": "14.4",
+    "winner": "Dplus KIA",
+    "blue_team": "FearX",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Rell",
+      "Orianna",
+      "Lucian",
+      "Poppy",
+      "Twisted Fate"
+    ],
+    "red_bans": [
+      "Nautilus",
+      "Vi",
+      "Ashe",
+      "Lee Sin",
+      "Wukong"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Ahri",
+      "Maokai",
+      "K'Sante",
+      "Viego"
+    ],
+    "red_picks": [
+      "Rakan",
+      "Karma",
+      "Xayah",
+      "Xin Zhao",
+      "Volibear"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Support",
+        "Mid",
+        "Bot",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — KT Rolster vs Nongshim RedForce",
+    "patch": "14.4",
+    "winner": "Nongshim RedForce",
+    "blue_team": "KT Rolster",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Poppy",
+      "Smolder",
+      "Xayah",
+      "Alistar",
+      "Twisted Fate"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Senna",
+      "Kalista",
+      "Gnar",
+      "Lulu"
+    ],
+    "blue_picks": [
+      "Vi",
+      "Taliyah",
+      "Zeri",
+      "K'Sante",
+      "Rell"
+    ],
+    "red_picks": [
+      "Tristana",
+      "Maokai",
+      "Kai'Sa",
+      "Nautilus",
+      "Udyr"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Mid",
+        "Bot",
+        "Top",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — Nongshim RedForce vs KT Rolster",
+    "patch": "14.4",
+    "winner": "KT Rolster",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Kalista",
+      "Senna",
+      "Varus",
+      "Lee Sin",
+      "Xin Zhao"
+    ],
+    "red_bans": [
+      "Smolder",
+      "Poppy",
+      "Orianna",
+      "Lucian",
+      "Jinx"
+    ],
+    "blue_picks": [
+      "Vi",
+      "Ahri",
+      "K'Sante",
+      "Zeri",
+      "Lulu"
+    ],
+    "red_picks": [
+      "Xayah",
+      "Taliyah",
+      "Gwen",
+      "Viego",
+      "Nautilus"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Mid",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Top",
+        "Jungle",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — KT Rolster vs Nongshim RedForce",
+    "patch": "14.4",
+    "winner": "Nongshim RedForce",
+    "blue_team": "KT Rolster",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Poppy",
+      "Smolder",
+      "Xayah",
+      "Ahri",
+      "Twisted Fate"
+    ],
+    "red_bans": [
+      "Lee Sin",
+      "Senna",
+      "Orianna",
+      "Gnar",
+      "Taliyah"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Ashe",
+      "Rell",
+      "Corki",
+      "Renekton"
+    ],
+    "red_picks": [
+      "Varus",
+      "Vi",
+      "Nautilus",
+      "Hwei",
+      "K'Sante"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — Kwangdong Freecs vs DRX",
+    "patch": "14.4",
+    "winner": "DRX",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Orianna",
+      "Sejuani",
+      "Renekton",
+      "Jax",
+      "Pyke"
+    ],
+    "red_bans": [
+      "Kalista",
+      "Nautilus",
+      "Ashe",
+      "Aurelion Sol",
+      "Taliyah"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Seraphine",
+      "Aatrox",
+      "Lee Sin",
+      "Hwei"
+    ],
+    "red_picks": [
+      "Smolder",
+      "Karma",
+      "Xin Zhao",
+      "K'Sante",
+      "Rakan"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Bot",
+        "Top",
+        "Jungle",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — Kwangdong Freecs vs DRX",
+    "patch": "14.4",
+    "winner": "DRX",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Orianna",
+      "Sejuani",
+      "Renekton",
+      "Pyke",
+      "Jax"
+    ],
+    "red_bans": [
+      "Kalista",
+      "Nautilus",
+      "Ashe",
+      "Lee Sin",
+      "Aatrox"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Seraphine",
+      "Hwei",
+      "Volibear",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Smolder",
+      "Karma",
+      "Xin Zhao",
+      "Bard",
+      "Malphite"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — T1 vs Gen.G",
+    "patch": "14.4",
+    "winner": "Gen.G",
+    "blue_team": "T1",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Nautilus",
+      "Zeri",
+      "Aphelios",
+      "K'Sante",
+      "Jayce"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Senna",
+      "Ashe",
+      "Aatrox",
+      "Gragas"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Poppy",
+      "Nami",
+      "Taliyah",
+      "Tristana"
+    ],
+    "red_picks": [
+      "Kalista",
+      "Rell",
+      "Renata Glasc",
+      "Twisted Fate",
+      "Ahri"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — T1 vs Gen.G",
+    "patch": "14.4",
+    "winner": "Gen.G",
+    "blue_team": "T1",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Nautilus",
+      "Zeri",
+      "Sejuani",
+      "Gragas",
+      "Taliyah"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Senna",
+      "Ashe",
+      "Vi",
+      "Neeko"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Jayce",
+      "Jarvan IV",
+      "LeBlanc"
+    ],
+    "red_picks": [
+      "Aphelios",
+      "Rell",
+      "Lulu",
+      "K'Sante",
+      "Corki"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — Nongshim RedForce vs Dplus KIA",
+    "patch": "14.4",
+    "winner": "Dplus KIA",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Karma",
+      "Jayce",
+      "Ashe",
+      "Orianna",
+      "Rumble"
+    ],
+    "red_bans": [
+      "Vi",
+      "Smolder",
+      "Nautilus",
+      "Hwei",
+      "Taliyah"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Tahm Kench",
+      "Renekton",
+      "Ahri",
+      "Graves"
+    ],
+    "red_picks": [
+      "Kalista",
+      "Volibear",
+      "Renata Glasc",
+      "Gnar",
+      "Aurelion Sol"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — Nongshim RedForce vs Dplus KIA",
+    "patch": "14.4",
+    "winner": "Dplus KIA",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Karma",
+      "Jayce",
+      "Ashe",
+      "LeBlanc",
+      "Orianna"
+    ],
+    "red_bans": [
+      "Nautilus",
+      "Vi",
+      "Senna",
+      "Sejuani",
+      "Nocturne"
+    ],
+    "blue_picks": [
+      "Smolder",
+      "Milio",
+      "Renekton",
+      "Hwei",
+      "Poppy"
+    ],
+    "red_picks": [
+      "Rell",
+      "Lucian",
+      "Nami",
+      "Aatrox",
+      "Taliyah"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — OKSavingsBank BRION vs Hanwha Life Esports",
+    "patch": "14.4",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Lucian",
+      "Kalista",
+      "Vi",
+      "Jayce",
+      "Twisted Fate"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Senna",
+      "Sejuani",
+      "Karma",
+      "Jax"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Nautilus",
+      "Lee Sin",
+      "Taliyah",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Maokai",
+      "Zeri",
+      "Alistar",
+      "Tristana",
+      "Gwen"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — OKSavingsBank BRION vs Hanwha Life Esports",
+    "patch": "14.4",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Lucian",
+      "Kalista",
+      "Varus",
+      "Taliyah",
+      "Jayce"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Senna",
+      "Sejuani",
+      "Karma",
+      "Jax"
+    ],
+    "blue_picks": [
+      "Rakan",
+      "Lee Sin",
+      "Kai'Sa",
+      "Lissandra",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Smolder",
+      "Rell",
+      "Vi",
+      "Ahri",
+      "Twisted Fate"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Jungle",
+        "Bot",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — FearX vs KT Rolster",
+    "patch": "14.4",
+    "winner": "KT Rolster",
+    "blue_team": "FearX",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Taliyah",
+      "Kalista",
+      "Lucian",
+      "Gnar",
+      "Twisted Fate"
+    ],
+    "red_bans": [
+      "Senna",
+      "Varus",
+      "Vi",
+      "Nocturne",
+      "Viego"
+    ],
+    "blue_picks": [
+      "Karma",
+      "Smolder",
+      "Nautilus",
+      "K'Sante",
+      "Graves"
+    ],
+    "red_picks": [
+      "Orianna",
+      "Lee Sin",
+      "Zeri",
+      "Rell",
+      "Gwen"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — FearX vs KT Rolster",
+    "patch": "14.4",
+    "winner": "KT Rolster",
+    "blue_team": "FearX",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Taliyah",
+      "Kalista",
+      "Lucian",
+      "Rell",
+      "Gnar"
+    ],
+    "red_bans": [
+      "Senna",
+      "Varus",
+      "Vi",
+      "Nocturne",
+      "Viego"
+    ],
+    "blue_picks": [
+      "Karma",
+      "Smolder",
+      "Nautilus",
+      "K'Sante",
+      "Graves"
+    ],
+    "red_picks": [
+      "Orianna",
+      "Lee Sin",
+      "Zeri",
+      "Maokai",
+      "Twisted Fate"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — T1 vs Kwangdong Freecs",
+    "patch": "14.4",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "T1",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Nautilus",
+      "K'Sante",
+      "Kalista",
+      "Jax",
+      "Gwen"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Ashe",
+      "Jayce",
+      "Ahri",
+      "Nocturne"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Aatrox",
+      "Tahm Kench",
+      "Taliyah",
+      "Vi"
+    ],
+    "red_picks": [
+      "Smolder",
+      "Hwei",
+      "Alistar",
+      "Gnar",
+      "Volibear"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Top",
+        "Support",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — Kwangdong Freecs vs T1",
+    "patch": "14.4",
+    "winner": "T1",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "T1",
+    "blue_bans": [
+      "Orianna",
+      "Jayce",
+      "Lucian",
+      "Jarvan IV",
+      "Ahri"
+    ],
+    "red_bans": [
+      "Senna",
+      "Nautilus",
+      "Draven",
+      "K'Sante",
+      "Lee Sin"
+    ],
+    "blue_picks": [
+      "Ashe",
+      "Hwei",
+      "Jhin",
+      "Jax",
+      "Sejuani"
+    ],
+    "red_picks": [
+      "Kalista",
+      "Varus",
+      "Aatrox",
+      "Nocturne",
+      "Taliyah"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Mid",
+        "Bot",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Support",
+        "Bot",
+        "Top",
+        "Jungle",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — Gen.G vs Hanwha Life Esports",
+    "patch": "14.4",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "Gen.G",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Maokai",
+      "Vi",
+      "Varus",
+      "Jax",
+      "Irelia"
+    ],
+    "red_bans": [
+      "Senna",
+      "Lucian",
+      "Renata Glasc",
+      "LeBlanc",
+      "Rumble"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Alistar",
+      "Lee Sin",
+      "Ahri",
+      "Jayce"
+    ],
+    "red_picks": [
+      "Xayah",
+      "Sejuani",
+      "Rakan",
+      "Taliyah",
+      "Aatrox"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — Gen.G vs Hanwha Life Esports",
+    "patch": "14.4",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "Gen.G",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Maokai",
+      "Vi",
+      "Varus",
+      "Ivern",
+      "Rell"
+    ],
+    "red_bans": [
+      "Senna",
+      "Lee Sin",
+      "Kalista",
+      "LeBlanc",
+      "Hwei"
+    ],
+    "blue_picks": [
+      "Sejuani",
+      "Lucian",
+      "Nami",
+      "Taliyah",
+      "Jax"
+    ],
+    "red_picks": [
+      "Zeri",
+      "Tristana",
+      "Lulu",
+      "Zac",
+      "K'Sante"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — DRX vs OKSavingsBank BRION",
+    "patch": "14.4",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "DRX",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Azir",
+      "Nautilus",
+      "Sejuani",
+      "K'Sante",
+      "Lee Sin"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Kalista",
+      "Lucian",
+      "Vi",
+      "Xin Zhao"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Tahm Kench",
+      "Hwei",
+      "Nocturne",
+      "Udyr"
+    ],
+    "red_picks": [
+      "Smolder",
+      "Rakan",
+      "Karma",
+      "Viego",
+      "Renekton"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — OKSavingsBank BRION vs DRX",
+    "patch": "14.4",
+    "winner": "DRX",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Ashe",
+      "Kalista",
+      "Lucian",
+      "Volibear",
+      "Maokai"
+    ],
+    "red_bans": [
+      "Nautilus",
+      "Azir",
+      "Senna",
+      "Tristana",
+      "Akali"
+    ],
+    "blue_picks": [
+      "Sejuani",
+      "Zeri",
+      "Rakan",
+      "Karma",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Poppy",
+      "Varus",
+      "Taliyah",
+      "Alistar",
+      "Jax"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Jungle",
+        "Bot",
+        "Mid",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 7 — OKSavingsBank BRION vs DRX",
+    "patch": "14.4",
+    "winner": "DRX",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Ashe",
+      "Kalista",
+      "Varus",
+      "Karma",
+      "Hwei"
+    ],
+    "red_bans": [
+      "Nautilus",
+      "Azir",
+      "Senna",
+      "Nocturne",
+      "Sejuani"
+    ],
+    "blue_picks": [
+      "Orianna",
+      "Zeri",
+      "Lulu",
+      "Volibear",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Nami",
+      "Vi",
+      "Taliyah",
+      "Malphite"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — DRX vs Hanwha Life Esports",
+    "patch": "14.3",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "DRX",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Vi",
+      "Maokai",
+      "Kalista",
+      "Udyr",
+      "K'Sante"
+    ],
+    "red_bans": [
+      "Senna",
+      "Ashe",
+      "Hwei",
+      "Orianna",
+      "Taliyah"
+    ],
+    "blue_picks": [
+      "Sejuani",
+      "Zeri",
+      "Nautilus",
+      "Jax",
+      "Karma"
+    ],
+    "red_picks": [
+      "Varus",
+      "Azir",
+      "Poppy",
+      "Alistar",
+      "Kennen"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — DRX vs Hanwha Life Esports",
+    "patch": "14.3",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "DRX",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Vi",
+      "Maokai",
+      "Kalista",
+      "Udyr",
+      "Rakan"
+    ],
+    "red_bans": [
+      "Senna",
+      "Ashe",
+      "Hwei",
+      "Orianna",
+      "Taliyah"
+    ],
+    "blue_picks": [
+      "Sejuani",
+      "Zeri",
+      "Nautilus",
+      "Karma",
+      "Jax"
+    ],
+    "red_picks": [
+      "Varus",
+      "Azir",
+      "Poppy",
+      "Rell",
+      "K'Sante"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — Dplus KIA vs KT Rolster",
+    "patch": "14.3",
+    "winner": "KT Rolster",
+    "blue_team": "Dplus KIA",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Nautilus",
+      "Taliyah",
+      "Kalista",
+      "Alistar",
+      "Twisted Fate"
+    ],
+    "red_bans": [
+      "Senna",
+      "Lucian",
+      "Varus",
+      "Rakan",
+      "Jax"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Rell",
+      "Zeri",
+      "Aatrox",
+      "Lulu"
+    ],
+    "red_picks": [
+      "Tristana",
+      "Maokai",
+      "Kai'Sa",
+      "Leona",
+      "Gnar"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Bot",
+        "Top",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — KT Rolster vs Dplus KIA",
+    "patch": "14.3",
+    "winner": "Dplus KIA",
+    "blue_team": "KT Rolster",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Maokai",
+      "Rell",
+      "Renata Glasc",
+      "Twisted Fate",
+      "Nocturne"
+    ],
+    "red_bans": [
+      "Senna",
+      "Azir",
+      "Kalista",
+      "Viego",
+      "Lee Sin"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Nautilus",
+      "Taliyah",
+      "Gnar",
+      "Poppy"
+    ],
+    "red_picks": [
+      "Karma",
+      "Smolder",
+      "Tahm Kench",
+      "Sejuani",
+      "Aatrox"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — KT Rolster vs Dplus KIA",
+    "patch": "14.3",
+    "winner": "Dplus KIA",
+    "blue_team": "KT Rolster",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Rell",
+      "Maokai",
+      "Renata Glasc",
+      "Twisted Fate",
+      "Nocturne"
+    ],
+    "red_bans": [
+      "Azir",
+      "Senna",
+      "Kalista",
+      "Taliyah",
+      "Udyr"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Nautilus",
+      "Lee Sin",
+      "Orianna",
+      "Rumble"
+    ],
+    "red_picks": [
+      "Karma",
+      "Lucian",
+      "Nami",
+      "Poppy",
+      "Aatrox"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — OKSavingsBank BRION vs T1",
+    "patch": "14.3",
+    "winner": "T1",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "T1",
+    "blue_bans": [
+      "Kalista",
+      "Ashe",
+      "Varus",
+      "Corki",
+      "Orianna"
+    ],
+    "red_bans": [
+      "Lee Sin",
+      "Nautilus",
+      "Senna",
+      "Rakan",
+      "Zeri"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Sejuani",
+      "K'Sante",
+      "Sivir",
+      "Yuumi"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Aatrox",
+      "Nami",
+      "Taliyah",
+      "Vi"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Top",
+        "Support",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — T1 vs OKSavingsBank BRION",
+    "patch": "14.3",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "T1",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Nautilus",
+      "Lee Sin",
+      "Sejuani",
+      "K'Sante",
+      "Milio"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Kalista",
+      "Orianna",
+      "Corki",
+      "Hwei"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Aatrox",
+      "Tahm Kench",
+      "Taliyah",
+      "Viego"
+    ],
+    "red_picks": [
+      "Azir",
+      "Maokai",
+      "Smolder",
+      "Udyr",
+      "Xin Zhao"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Top",
+        "Support",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Support",
+        "Bot",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — Kwangdong Freecs vs Nongshim RedForce",
+    "patch": "14.3",
+    "winner": "Nongshim RedForce",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Vi",
+      "Lucian",
+      "Smolder",
+      "K'Sante",
+      "Nocturne"
+    ],
+    "red_bans": [
+      "Kalista",
+      "Hwei",
+      "Senna",
+      "Sejuani",
+      "Nautilus"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Azir",
+      "Aatrox",
+      "Ashe",
+      "Rell"
+    ],
+    "red_picks": [
+      "Zeri",
+      "Maokai",
+      "Taliyah",
+      "Rakan",
+      "Jax"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Top",
+        "Support",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — Nongshim RedForce vs Kwangdong Freecs",
+    "patch": "14.3",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Kalista",
+      "Senna",
+      "Smolder",
+      "Aatrox",
+      "Miss Fortune"
+    ],
+    "red_bans": [
+      "Vi",
+      "Lucian",
+      "Varus",
+      "Rakan",
+      "Poppy"
+    ],
+    "blue_picks": [
+      "Hwei",
+      "Zeri",
+      "Maokai",
+      "K'Sante",
+      "Nautilus"
+    ],
+    "red_picks": [
+      "Sejuani",
+      "Azir",
+      "Alistar",
+      "Kai'Sa",
+      "Gnar"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Jungle",
+        "Top",
+        "Support"
+      ],
+      "red": [
+        "Jungle",
+        "Mid",
+        "Support",
+        "Bot",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — Kwangdong Freecs vs Nongshim RedForce",
+    "patch": "14.3",
+    "winner": "Nongshim RedForce",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Vi",
+      "Lucian",
+      "Smolder",
+      "Alistar",
+      "K'Sante"
+    ],
+    "red_bans": [
+      "Kalista",
+      "Hwei",
+      "Senna",
+      "Renata Glasc",
+      "Nautilus"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Maokai",
+      "Azir",
+      "Aatrox",
+      "Sejuani"
+    ],
+    "red_picks": [
+      "Zeri",
+      "Nocturne",
+      "Taliyah",
+      "Rakan",
+      "Udyr"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — KT Rolster vs Gen.G",
+    "patch": "14.3",
+    "winner": "Gen.G",
+    "blue_team": "KT Rolster",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Twisted Fate",
+      "Renata Glasc",
+      "Kalista",
+      "Kai'Sa",
+      "Rumble"
+    ],
+    "red_bans": [
+      "Senna",
+      "Taliyah",
+      "Varus",
+      "Xin Zhao",
+      "K'Sante"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Smolder",
+      "Rell",
+      "Gnar",
+      "Maokai"
+    ],
+    "red_picks": [
+      "Corki",
+      "Nautilus",
+      "Lee Sin",
+      "Zeri",
+      "Tristana"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Support",
+        "Jungle",
+        "Bot",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — Gen.G vs KT Rolster",
+    "patch": "14.3",
+    "winner": "KT Rolster",
+    "blue_team": "Gen.G",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Taliyah",
+      "Renata Glasc",
+      "K'Sante",
+      "Lee Sin",
+      "Vi"
+    ],
+    "red_bans": [
+      "Senna",
+      "Nautilus",
+      "Lucian",
+      "Rell",
+      "Rumble"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Azir",
+      "Alistar",
+      "Jax",
+      "Twisted Fate"
+    ],
+    "red_picks": [
+      "Maokai",
+      "Varus",
+      "Orianna",
+      "Viego",
+      "Udyr"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — FearX vs Hanwha Life Esports",
+    "patch": "14.3",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "FearX",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Maokai",
+      "Lucian",
+      "Kalista",
+      "Rakan",
+      "Renata Glasc"
+    ],
+    "red_bans": [
+      "Senna",
+      "Ashe",
+      "Nocturne",
+      "Nautilus",
+      "Rell"
+    ],
+    "blue_picks": [
+      "Vi",
+      "Zeri",
+      "Taliyah",
+      "Alistar",
+      "Darius"
+    ],
+    "red_picks": [
+      "Varus",
+      "Azir",
+      "Poppy",
+      "Udyr",
+      "Tahm Kench"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Mid",
+        "Support",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — Hanwha Life Esports vs FearX",
+    "patch": "14.3",
+    "winner": "FearX",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Ashe",
+      "Nautilus",
+      "Nocturne",
+      "Yone",
+      "Azir"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Senna",
+      "Maokai",
+      "Orianna",
+      "LeBlanc"
+    ],
+    "blue_picks": [
+      "Vi",
+      "Xayah",
+      "Rakan",
+      "K'Sante",
+      "Akali"
+    ],
+    "red_picks": [
+      "Varus",
+      "Sejuani",
+      "Tahm Kench",
+      "Taliyah",
+      "Gnar"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — Hanwha Life Esports vs FearX",
+    "patch": "14.3",
+    "winner": "FearX",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Ashe",
+      "Nautilus",
+      "Nocturne",
+      "Rakan",
+      "Udyr"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Senna",
+      "Maokai",
+      "Renata Glasc",
+      "Gnar"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Azir",
+      "Poppy",
+      "Tahm Kench",
+      "Gwen"
+    ],
+    "red_picks": [
+      "Vi",
+      "Zeri",
+      "Taliyah",
+      "K'Sante",
+      "Rell"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Support",
+        "Top"
+      ],
+      "red": [
+        "Jungle",
+        "Bot",
+        "Mid",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — Nongshim RedForce vs DRX",
+    "patch": "14.3",
+    "winner": "DRX",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Ashe",
+      "Varus",
+      "Nautilus",
+      "Twisted Fate",
+      "Tahm Kench"
+    ],
+    "red_bans": [
+      "Taliyah",
+      "Vi",
+      "Smolder",
+      "Nocturne",
+      "K'Sante"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Zeri",
+      "Rakan",
+      "Rell",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Senna",
+      "Hwei",
+      "Maokai",
+      "Sejuani",
+      "Jax"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — DRX vs Nongshim RedForce",
+    "patch": "14.3",
+    "winner": "Nongshim RedForce",
+    "blue_team": "DRX",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Vi",
+      "Taliyah",
+      "Smolder",
+      "Poppy",
+      "Maokai"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Varus",
+      "Senna",
+      "Sejuani",
+      "Lee Sin"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Hwei",
+      "Rakan",
+      "K'Sante",
+      "Xin Zhao"
+    ],
+    "red_picks": [
+      "Azir",
+      "Xayah",
+      "Nautilus",
+      "Rell",
+      "Twisted Fate"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — Nongshim RedForce vs DRX",
+    "patch": "14.3",
+    "winner": "DRX",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Ashe",
+      "Sejuani",
+      "Senna",
+      "Nautilus",
+      "Twisted Fate"
+    ],
+    "red_bans": [
+      "Taliyah",
+      "Vi",
+      "Poppy",
+      "Udyr",
+      "Viego"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Maokai",
+      "Smolder",
+      "Alistar",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Varus",
+      "Orianna",
+      "Lee Sin",
+      "Rakan",
+      "Gwen"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — OKSavingsBank BRION vs Dplus KIA",
+    "patch": "14.3",
+    "winner": "Dplus KIA",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Rell",
+      "Ashe",
+      "Senna",
+      "LeBlanc",
+      "Aatrox"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Azir",
+      "Nautilus",
+      "Kalista",
+      "Xayah"
+    ],
+    "blue_picks": [
+      "Hwei",
+      "K'Sante",
+      "Lee Sin",
+      "Sivir",
+      "Yuumi"
+    ],
+    "red_picks": [
+      "Vi",
+      "Lucian",
+      "Nami",
+      "Karma",
+      "Smolder"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Top",
+        "Jungle",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — Dplus KIA vs OKSavingsBank BRION",
+    "patch": "14.3",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "Dplus KIA",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Ashe",
+      "Orianna",
+      "Nautilus",
+      "K'Sante",
+      "Yone"
+    ],
+    "red_bans": [
+      "Rell",
+      "Vi",
+      "Lee Sin",
+      "Lucian",
+      "Varus"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Maokai",
+      "Aatrox",
+      "Kalista",
+      "Renata Glasc"
+    ],
+    "red_picks": [
+      "Hwei",
+      "Smolder",
+      "Sejuani",
+      "Rakan",
+      "Jax"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — FearX vs T1",
+    "patch": "14.3",
+    "winner": "T1",
+    "blue_team": "FearX",
+    "red_team": "T1",
+    "blue_bans": [
+      "Ashe",
+      "Aatrox",
+      "Lucian",
+      "Renata Glasc",
+      "Vi"
+    ],
+    "red_bans": [
+      "Senna",
+      "Nautilus",
+      "Rakan",
+      "Twisted Fate",
+      "Udyr"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Azir",
+      "Nocturne",
+      "Maokai",
+      "Zac"
+    ],
+    "red_picks": [
+      "Orianna",
+      "Kalista",
+      "K'Sante",
+      "Jarvan IV",
+      "Hwei"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Support",
+        "Top"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Top",
+        "Jungle",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — T1 vs FearX",
+    "patch": "14.3",
+    "winner": "FearX",
+    "blue_team": "T1",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Lee Sin",
+      "Nautilus",
+      "Milio",
+      "Varus",
+      "Xayah"
+    ],
+    "red_bans": [
+      "Aatrox",
+      "Ashe",
+      "Lucian",
+      "Gnar",
+      "Poppy"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Tahm Kench",
+      "Corki",
+      "Twisted Fate",
+      "Viego"
+    ],
+    "red_picks": [
+      "Azir",
+      "Sejuani",
+      "Rakan",
+      "Tristana",
+      "Jax"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Support",
+        "Bot",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — Kwangdong Freecs vs Gen.G",
+    "patch": "14.3",
+    "winner": "Gen.G",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Maokai",
+      "Udyr",
+      "Lucian",
+      "Sejuani",
+      "Azir"
+    ],
+    "red_bans": [
+      "Senna",
+      "Kalista",
+      "Renata Glasc",
+      "Alistar",
+      "Karma"
+    ],
+    "blue_picks": [
+      "Hwei",
+      "Aatrox",
+      "Lee Sin",
+      "Ziggs",
+      "Pyke"
+    ],
+    "red_picks": [
+      "Varus",
+      "Nautilus",
+      "Twisted Fate",
+      "Vi",
+      "LeBlanc"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Top",
+        "Jungle",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 6 — Kwangdong Freecs vs Gen.G",
+    "patch": "14.3",
+    "winner": "Gen.G",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Udyr",
+      "Maokai",
+      "Lucian",
+      "Twisted Fate",
+      "Lee Sin"
+    ],
+    "red_bans": [
+      "Senna",
+      "Kalista",
+      "Renata Glasc",
+      "Alistar",
+      "Aatrox"
+    ],
+    "blue_picks": [
+      "Vi",
+      "Smolder",
+      "Hwei",
+      "Poppy",
+      "Braum"
+    ],
+    "red_picks": [
+      "Varus",
+      "Nautilus",
+      "Azir",
+      "K'Sante",
+      "Fiddlesticks"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Mid",
+        "Top",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — OKSavingsBank BRION vs Kwangdong Freecs",
+    "patch": "14.3",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Senna",
+      "Hwei",
+      "Kalista",
+      "Smolder",
+      "Ashe"
+    ],
+    "red_bans": [
+      "Varus",
+      "Poppy",
+      "Lucian",
+      "Kai'Sa",
+      "Zeri"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Sejuani",
+      "Aatrox",
+      "Xayah",
+      "Rakan"
+    ],
+    "red_picks": [
+      "K'Sante",
+      "Vi",
+      "Aurelion Sol",
+      "Ezreal",
+      "Karma"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Top",
+        "Jungle",
+        "Mid",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — Kwangdong Freecs vs OKSavingsBank BRION",
+    "patch": "14.3",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Varus",
+      "Lucian",
+      "Sejuani",
+      "Maokai",
+      "Aatrox"
+    ],
+    "red_bans": [
+      "Kalista",
+      "Hwei",
+      "Senna",
+      "Ashe",
+      "Karma"
+    ],
+    "blue_picks": [
+      "Vi",
+      "K'Sante",
+      "Aurelion Sol",
+      "Miss Fortune",
+      "Alistar"
+    ],
+    "red_picks": [
+      "Azir",
+      "Smolder",
+      "Poppy",
+      "Nautilus",
+      "Xin Zhao"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Top",
+        "Mid",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Top",
+        "Support",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — OKSavingsBank BRION vs Kwangdong Freecs",
+    "patch": "14.3",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Hwei",
+      "Kalista",
+      "Senna",
+      "Taliyah",
+      "Aatrox"
+    ],
+    "red_bans": [
+      "Sejuani",
+      "Varus",
+      "Lucian",
+      "Ashe",
+      "Ezreal"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Poppy",
+      "K'Sante",
+      "Kai'Sa",
+      "Maokai"
+    ],
+    "red_picks": [
+      "Smolder",
+      "Vi",
+      "Nautilus",
+      "Aurelion Sol",
+      "Garen"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — Dplus KIA vs DRX",
+    "patch": "14.3",
+    "winner": "DRX",
+    "blue_team": "Dplus KIA",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Sejuani",
+      "Ashe",
+      "Kalista",
+      "Nocturne",
+      "Poppy"
+    ],
+    "red_bans": [
+      "Rell",
+      "Azir",
+      "Varus",
+      "Aatrox",
+      "Maokai"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Karma",
+      "Lee Sin",
+      "Tahm Kench",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Nautilus",
+      "Orianna",
+      "Smolder",
+      "Xin Zhao",
+      "Malphite"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Support",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Mid",
+        "Bot",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — DRX vs Dplus KIA",
+    "patch": "14.3",
+    "winner": "Dplus KIA",
+    "blue_team": "DRX",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Vi",
+      "Rell",
+      "Kalista",
+      "Aatrox",
+      "Poppy"
+    ],
+    "red_bans": [
+      "Senna",
+      "Sejuani",
+      "Orianna",
+      "Udyr",
+      "Lee Sin"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Varus",
+      "Nautilus",
+      "K'Sante",
+      "Nocturne"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Maokai",
+      "Nami",
+      "Hwei",
+      "Gnar"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — DRX vs Dplus KIA",
+    "patch": "14.3",
+    "winner": "Dplus KIA",
+    "blue_team": "DRX",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Vi",
+      "Rell",
+      "Kalista",
+      "Varus",
+      "Zeri"
+    ],
+    "red_bans": [
+      "Senna",
+      "Ashe",
+      "Lucian",
+      "Smolder",
+      "Nautilus"
+    ],
+    "blue_picks": [
+      "Sejuani",
+      "Yone",
+      "Gwen",
+      "Jinx",
+      "Tahm Kench"
+    ],
+    "red_picks": [
+      "Azir",
+      "Aatrox",
+      "Maokai",
+      "Rakan",
+      "Kai'Sa"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Mid",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Top",
+        "Jungle",
+        "Support",
+        "Bot"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — Gen.G vs FearX",
+    "patch": "14.3",
+    "winner": "FearX",
+    "blue_team": "Gen.G",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Kalista",
+      "Ashe",
+      "Rakan",
+      "Sejuani",
+      "Tristana"
+    ],
+    "red_bans": [
+      "Senna",
+      "Lucian",
+      "Smolder",
+      "Twisted Fate",
+      "Poppy"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Zeri",
+      "Alistar",
+      "Lee Sin",
+      "Udyr"
+    ],
+    "red_picks": [
+      "Nautilus",
+      "Varus",
+      "K'Sante",
+      "Nocturne",
+      "Taliyah"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Bot",
+        "Top",
+        "Jungle",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — Gen.G vs FearX",
+    "patch": "14.3",
+    "winner": "FearX",
+    "blue_team": "Gen.G",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Kalista",
+      "Ashe",
+      "Rakan",
+      "Udyr",
+      "Vi"
+    ],
+    "red_bans": [
+      "Senna",
+      "Twisted Fate",
+      "Lucian",
+      "Taliyah",
+      "Akali"
+    ],
+    "blue_picks": [
+      "Smolder",
+      "Alistar",
+      "K'Sante",
+      "Aurelion Sol",
+      "Lee Sin"
+    ],
+    "red_picks": [
+      "Nautilus",
+      "Azir",
+      "Zeri",
+      "Nocturne",
+      "Poppy"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Support",
+        "Mid",
+        "Bot",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — KT Rolster vs T1",
+    "patch": "14.3",
+    "winner": "T1",
+    "blue_team": "KT Rolster",
+    "red_team": "T1",
+    "blue_bans": [
+      "Aatrox",
+      "Ashe",
+      "Kalista",
+      "Zeri",
+      "Lucian"
+    ],
+    "red_bans": [
+      "Senna",
+      "Taliyah",
+      "Udyr",
+      "Lee Sin",
+      "Viego"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Azir",
+      "Gnar",
+      "Wukong",
+      "Nautilus"
+    ],
+    "red_picks": [
+      "Orianna",
+      "K'Sante",
+      "Vi",
+      "Smolder",
+      "Alistar"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Top",
+        "Jungle",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Top",
+        "Jungle",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — T1 vs KT Rolster",
+    "patch": "14.3",
+    "winner": "KT Rolster",
+    "blue_team": "T1",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Taliyah",
+      "Viego",
+      "Azir",
+      "K'Sante",
+      "Lee Sin"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Ashe",
+      "Hwei",
+      "Rell",
+      "Twisted Fate"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Nautilus",
+      "Aatrox",
+      "Corki",
+      "Poppy"
+    ],
+    "red_picks": [
+      "Karma",
+      "Kalista",
+      "Renata Glasc",
+      "Udyr",
+      "Xin Zhao"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — Nongshim RedForce vs Hanwha Life Esports",
+    "patch": "14.3",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Yone",
+      "Maokai",
+      "Varus",
+      "Rumble",
+      "Nautilus"
+    ],
+    "red_bans": [
+      "Senna",
+      "Poppy",
+      "Lucian",
+      "Udyr",
+      "Alistar"
+    ],
+    "blue_picks": [
+      "Smolder",
+      "Azir",
+      "Rell",
+      "Viego",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Vi",
+      "Orianna",
+      "Kai'Sa",
+      "Rakan",
+      "Gwen"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Jungle",
+        "Mid",
+        "Bot",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — Hanwha Life Esports vs Nongshim RedForce",
+    "patch": "14.3",
+    "winner": "Nongshim RedForce",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Poppy",
+      "Orianna",
+      "Lucian",
+      "Ashe",
+      "Renata Glasc"
+    ],
+    "red_bans": [
+      "Yone",
+      "Senna",
+      "Akali",
+      "Rumble",
+      "Gnar"
+    ],
+    "blue_picks": [
+      "Smolder",
+      "Maokai",
+      "Tristana",
+      "Alistar",
+      "Gwen"
+    ],
+    "red_picks": [
+      "Vi",
+      "Kalista",
+      "Taliyah",
+      "Udyr",
+      "Rell"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Support",
+        "Top"
+      ],
+      "red": [
+        "Jungle",
+        "Bot",
+        "Mid",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — OKSavingsBank BRION vs Kwangdong Freecs",
+    "patch": "14.3",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Hwei",
+      "Kalista",
+      "Senna",
+      "Lee Sin",
+      "Vi"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Azir",
+      "Varus",
+      "Poppy",
+      "Viego"
+    ],
+    "blue_picks": [
+      "Orianna",
+      "Smolder",
+      "Nautilus",
+      "Sejuani",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Karma",
+      "K'Sante",
+      "Ezreal",
+      "Taliyah",
+      "Maokai"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Top",
+        "Bot",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — Kwangdong Freecs vs OKSavingsBank BRION",
+    "patch": "14.3",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Ashe",
+      "Varus",
+      "Azir",
+      "Taliyah",
+      "Tristana"
+    ],
+    "red_bans": [
+      "Kalista",
+      "Hwei",
+      "Orianna",
+      "Aatrox",
+      "Viego"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Seraphine",
+      "Karma",
+      "Poppy",
+      "Lee Sin"
+    ],
+    "red_picks": [
+      "Nautilus",
+      "K'Sante",
+      "Smolder",
+      "Xin Zhao",
+      "Ryze"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Bot",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Support",
+        "Top",
+        "Bot",
+        "Jungle",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — Kwangdong Freecs vs OKSavingsBank BRION",
+    "patch": "14.3",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Ashe",
+      "Varus",
+      "Smolder",
+      "Lucian",
+      "Rakan"
+    ],
+    "red_bans": [
+      "Kalista",
+      "Hwei",
+      "Senna",
+      "Ezreal",
+      "Draven"
+    ],
+    "blue_picks": [
+      "Karma",
+      "Aatrox",
+      "Lee Sin",
+      "Aphelios",
+      "Milio"
+    ],
+    "red_picks": [
+      "K'Sante",
+      "Sejuani",
+      "Azir",
+      "Zeri",
+      "Nautilus"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Top",
+        "Jungle",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Top",
+        "Jungle",
+        "Mid",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — DRX vs Gen.G",
+    "patch": "14.3",
+    "winner": "Gen.G",
+    "blue_team": "DRX",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Maokai",
+      "Lucian",
+      "Kalista",
+      "Poppy",
+      "Twisted Fate"
+    ],
+    "red_bans": [
+      "Senna",
+      "Smolder",
+      "Sejuani",
+      "Taliyah",
+      "Hwei"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Rakan",
+      "Vi",
+      "Akali",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Nautilus",
+      "Azir",
+      "Zeri",
+      "Lee Sin",
+      "Udyr"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Mid",
+        "Bot",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — Gen.G vs DRX",
+    "patch": "14.3",
+    "winner": "DRX",
+    "blue_team": "Gen.G",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Sejuani",
+      "Smolder",
+      "Poppy",
+      "Sivir",
+      "Ezreal"
+    ],
+    "red_bans": [
+      "Maokai",
+      "Kalista",
+      "Varus",
+      "Viego",
+      "Rell"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Nautilus",
+      "Azir",
+      "Twisted Fate",
+      "Vi"
+    ],
+    "red_picks": [
+      "Karma",
+      "Lee Sin",
+      "Pyke",
+      "K'Sante",
+      "Ziggs"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Support",
+        "Top",
+        "Bot"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — FearX vs Dplus KIA",
+    "patch": "14.3",
+    "winner": "Dplus KIA",
+    "blue_team": "FearX",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Vi",
+      "Poppy",
+      "Lucian",
+      "Gnar",
+      "Renata Glasc"
+    ],
+    "red_bans": [
+      "Senna",
+      "Yone",
+      "Ashe",
+      "Rumble",
+      "Jax"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Lee Sin",
+      "Orianna",
+      "Aatrox",
+      "Alistar"
+    ],
+    "red_picks": [
+      "Varus",
+      "Rell",
+      "Azir",
+      "Twisted Fate",
+      "Rakan"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Top",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — Dplus KIA vs FearX",
+    "patch": "14.3",
+    "winner": "FearX",
+    "blue_team": "Dplus KIA",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Jax",
+      "Ashe",
+      "Kalista",
+      "Rumble",
+      "Renata Glasc"
+    ],
+    "red_bans": [
+      "Vi",
+      "Twisted Fate",
+      "Rell",
+      "LeBlanc",
+      "Orianna"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Lee Sin",
+      "Nautilus",
+      "Gnar",
+      "Azir"
+    ],
+    "red_picks": [
+      "Varus",
+      "Sejuani",
+      "Yone",
+      "Maokai",
+      "Camille"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — Hanwha Life Esports vs KT Rolster",
+    "patch": "14.3",
+    "winner": "KT Rolster",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Orianna",
+      "Kalista",
+      "Smolder",
+      "Azir",
+      "Alistar"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Senna",
+      "Varus",
+      "Rumble",
+      "Gnar"
+    ],
+    "blue_picks": [
+      "Maokai",
+      "Yone",
+      "Jhin",
+      "Rakan",
+      "Udyr"
+    ],
+    "red_picks": [
+      "Ashe",
+      "Sejuani",
+      "K'Sante",
+      "Taliyah",
+      "Sivir"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Mid",
+        "Bot",
+        "Support",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Jungle",
+        "Top",
+        "Mid",
+        "Bot"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — Hanwha Life Esports vs KT Rolster",
+    "patch": "14.3",
+    "winner": "KT Rolster",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Orianna",
+      "Kalista",
+      "Ashe",
+      "K'Sante",
+      "Udyr"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Senna",
+      "Maokai",
+      "Rumble",
+      "Renata Glasc"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Sejuani",
+      "Yone",
+      "Rakan",
+      "Gnar"
+    ],
+    "red_picks": [
+      "Smolder",
+      "Taliyah",
+      "Vi",
+      "Alistar",
+      "Aatrox"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Support",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — T1 vs Nongshim RedForce",
+    "patch": "14.3",
+    "winner": "Nongshim RedForce",
+    "blue_team": "T1",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Twisted Fate",
+      "Smolder",
+      "Zeri",
+      "Udyr",
+      "Viego"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Aatrox",
+      "Orianna",
+      "Gnar",
+      "Rumble"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Tahm Kench",
+      "Hwei",
+      "K'Sante",
+      "Nocturne"
+    ],
+    "red_picks": [
+      "Nautilus",
+      "Taliyah",
+      "Varus",
+      "Vi",
+      "Poppy"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Support",
+        "Mid",
+        "Bot",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — Nongshim RedForce vs T1",
+    "patch": "14.3",
+    "winner": "T1",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "T1",
+    "blue_bans": [
+      "Aatrox",
+      "Orianna",
+      "Ashe",
+      "Gnar",
+      "Camille"
+    ],
+    "red_bans": [
+      "Senna",
+      "Lucian",
+      "Nautilus",
+      "K'Sante",
+      "Yuumi"
+    ],
+    "blue_picks": [
+      "Smolder",
+      "Vi",
+      "Taliyah",
+      "Udyr",
+      "Rakan"
+    ],
+    "red_picks": [
+      "Twisted Fate",
+      "Milio",
+      "Rell",
+      "Karma",
+      "Yone"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Top",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 5 — T1 vs Nongshim RedForce",
+    "patch": "14.3",
+    "winner": "Nongshim RedForce",
+    "blue_team": "T1",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "K'Sante",
+      "Twisted Fate",
+      "Smolder",
+      "Viego",
+      "Vi"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Aatrox",
+      "Orianna",
+      "Rumble",
+      "Tahm Kench"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Hwei",
+      "Lee Sin",
+      "Gnar",
+      "Ornn"
+    ],
+    "red_picks": [
+      "Nautilus",
+      "Zeri",
+      "Taliyah",
+      "Sejuani",
+      "Jax"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top",
+        "Support"
+      ],
+      "red": [
+        "Support",
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — OKSavingsBank BRION vs Nongshim RedForce",
+    "patch": "14.2",
+    "winner": "Nongshim RedForce",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Hwei",
+      "Kalista",
+      "Lucian",
+      "Rakan",
+      "Aphelios"
+    ],
+    "red_bans": [
+      "Senna",
+      "Varus",
+      "Ashe",
+      "Ezreal",
+      "Jinx"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Poppy",
+      "Aatrox",
+      "Nautilus",
+      "Xayah"
+    ],
+    "red_picks": [
+      "Taliyah",
+      "Sejuani",
+      "Jax",
+      "Rell",
+      "Twisted Fate"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Support",
+        "Bot"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Support",
+        "Bot"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — Nongshim RedForce vs OKSavingsBank BRION",
+    "patch": "14.2",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Senna",
+      "Varus",
+      "Azir",
+      "Karma",
+      "Twisted Fate"
+    ],
+    "red_bans": [
+      "Rakan",
+      "Lucian",
+      "Orianna",
+      "Sejuani",
+      "Rell"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Hwei",
+      "Nautilus",
+      "K'Sante",
+      "Viego"
+    ],
+    "red_picks": [
+      "Ashe",
+      "Poppy",
+      "Caitlyn",
+      "Tristana",
+      "Gragas"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Support",
+        "Top",
+        "Bot",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — FearX vs T1",
+    "patch": "14.2",
+    "winner": "T1",
+    "blue_team": "FearX",
+    "red_team": "T1",
+    "blue_bans": [
+      "Poppy",
+      "Ashe",
+      "Caitlyn",
+      "Renata Glasc",
+      "Rell"
+    ],
+    "red_bans": [
+      "Senna",
+      "Nautilus",
+      "Lucian",
+      "Jarvan IV",
+      "Rakan"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Azir",
+      "K'Sante",
+      "Lee Sin",
+      "Alistar"
+    ],
+    "red_picks": [
+      "Orianna",
+      "Varus",
+      "Aatrox",
+      "Neeko",
+      "Nocturne"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Top",
+        "Jungle",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Top",
+        "Support",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — FearX vs T1",
+    "patch": "14.2",
+    "winner": "T1",
+    "blue_team": "FearX",
+    "red_team": "T1",
+    "blue_bans": [
+      "Poppy",
+      "Ashe",
+      "Caitlyn",
+      "Hwei",
+      "Zyra"
+    ],
+    "red_bans": [
+      "Senna",
+      "Nautilus",
+      "Lucian",
+      "Jarvan IV",
+      "Viego"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Renata Glasc",
+      "Karma",
+      "K'Sante",
+      "Lee Sin"
+    ],
+    "red_picks": [
+      "Orianna",
+      "Varus",
+      "Aatrox",
+      "Rell",
+      "Ezreal"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Top",
+        "Jungle",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — DRX vs Dplus KIA",
+    "patch": "14.2",
+    "winner": "Dplus KIA",
+    "blue_team": "DRX",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Kalista",
+      "Rakan",
+      "Varus",
+      "Nautilus",
+      "Pyke"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Senna",
+      "Sejuani",
+      "Azir",
+      "Orianna"
+    ],
+    "blue_picks": [
+      "Ashe",
+      "Poppy",
+      "Ezreal",
+      "Twisted Fate",
+      "Camille"
+    ],
+    "red_picks": [
+      "Rell",
+      "Aatrox",
+      "Karma",
+      "Caitlyn",
+      "Bard"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Jungle",
+        "Bot",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Jungle",
+        "Top",
+        "Mid",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — Dplus KIA vs DRX",
+    "patch": "14.2",
+    "winner": "DRX",
+    "blue_team": "Dplus KIA",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Sejuani",
+      "Ashe",
+      "Milio",
+      "Nautilus",
+      "Orianna"
+    ],
+    "red_bans": [
+      "Senna",
+      "Rakan",
+      "Kalista",
+      "Gwen",
+      "Twisted Fate"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Rell",
+      "Aatrox",
+      "Karma"
+    ],
+    "red_picks": [
+      "Varus",
+      "K'Sante",
+      "Poppy",
+      "Caitlyn",
+      "Taliyah"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Support",
+        "Top",
+        "Jungle",
+        "Bot",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — Hanwha Life Esports vs Gen.G",
+    "patch": "14.2",
+    "winner": "Gen.G",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Corki",
+      "Varus",
+      "K'Sante",
+      "Tristana",
+      "Taliyah"
+    ],
+    "red_bans": [
+      "Senna",
+      "Maokai",
+      "Kalista",
+      "Vi",
+      "Jarvan IV"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Azir",
+      "Sejuani",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Aphelios",
+      "Rell",
+      "Milio",
+      "Hwei",
+      "Jax"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — Gen.G vs Hanwha Life Esports",
+    "patch": "14.2",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "Gen.G",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Maokai",
+      "Vi",
+      "Ashe",
+      "Akali",
+      "Yone"
+    ],
+    "red_bans": [
+      "K'Sante",
+      "Tristana",
+      "Kalista",
+      "Udyr",
+      "Sejuani"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Tahm Kench",
+      "Azir",
+      "Rumble",
+      "Lee Sin"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Nautilus",
+      "Nami",
+      "Aatrox",
+      "Taliyah"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — Kwangdong Freecs vs FearX",
+    "patch": "14.2",
+    "winner": "FearX",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Sejuani",
+      "Varus",
+      "Ashe",
+      "Maokai",
+      "Udyr"
+    ],
+    "red_bans": [
+      "Karma",
+      "Senna",
+      "Kalista",
+      "Corki",
+      "Orianna"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "K'Sante",
+      "Hwei",
+      "Lee Sin"
+    ],
+    "red_picks": [
+      "Milio",
+      "Azir",
+      "Aphelios",
+      "Poppy",
+      "Gnar"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Support",
+        "Mid",
+        "Bot",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — FearX vs Kwangdong Freecs",
+    "patch": "14.2",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "FearX",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Poppy",
+      "Karma",
+      "Kalista",
+      "Aatrox",
+      "Nautilus"
+    ],
+    "red_bans": [
+      "Varus",
+      "Lucian",
+      "Senna",
+      "Yone",
+      "Yasuo"
+    ],
+    "blue_picks": [
+      "Ashe",
+      "Jhin",
+      "Maokai",
+      "K'Sante",
+      "Azir"
+    ],
+    "red_picks": [
+      "Ezreal",
+      "Sejuani",
+      "Hwei",
+      "Pyke",
+      "Garen"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Bot",
+        "Jungle",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — Kwangdong Freecs vs FearX",
+    "patch": "14.2",
+    "winner": "FearX",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Sejuani",
+      "Varus",
+      "Ashe",
+      "Yasuo",
+      "Akali"
+    ],
+    "red_bans": [
+      "Poppy",
+      "Karma",
+      "Senna",
+      "Vi",
+      "Hwei"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "K'Sante",
+      "Renata Glasc",
+      "Azir",
+      "Lee Sin"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Milio",
+      "Udyr",
+      "Orianna",
+      "Xin Zhao"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Top",
+        "Support",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — Nongshim RedForce vs KT Rolster",
+    "patch": "14.2",
+    "winner": "KT Rolster",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Vi",
+      "Senna",
+      "Varus",
+      "Rell",
+      "Maokai"
+    ],
+    "red_bans": [
+      "Sejuani",
+      "Rakan",
+      "Kalista",
+      "Gnar",
+      "Udyr"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Milio",
+      "Azir",
+      "Aatrox",
+      "Viego"
+    ],
+    "red_picks": [
+      "Orianna",
+      "Ashe",
+      "Caitlyn",
+      "K'Sante",
+      "Rammus"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Support",
+        "Bot",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — Nongshim RedForce vs KT Rolster",
+    "patch": "14.2",
+    "winner": "KT Rolster",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Vi",
+      "Senna",
+      "Varus",
+      "Caitlyn",
+      "Ezreal"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Lucian",
+      "Kalista",
+      "Rakan",
+      "Nautilus"
+    ],
+    "blue_picks": [
+      "Sejuani",
+      "Taliyah",
+      "Aatrox",
+      "Aphelios",
+      "Milio"
+    ],
+    "red_picks": [
+      "Azir",
+      "Maokai",
+      "K'Sante",
+      "Ashe",
+      "Zyra"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Mid",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — OKSavingsBank BRION vs Hanwha Life Esports",
+    "patch": "14.2",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Corki",
+      "Kalista",
+      "Vi",
+      "Yone",
+      "Tristana"
+    ],
+    "red_bans": [
+      "Poppy",
+      "Karma",
+      "Azir",
+      "Viego",
+      "Lee Sin"
+    ],
+    "blue_picks": [
+      "Orianna",
+      "Varus",
+      "Nautilus",
+      "Rell",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Senna",
+      "Sejuani",
+      "Tahm Kench",
+      "Akali",
+      "Camille"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — Hanwha Life Esports vs OKSavingsBank BRION",
+    "patch": "14.2",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Varus",
+      "Poppy",
+      "Karma",
+      "Tristana",
+      "Azir"
+    ],
+    "red_bans": [
+      "Corki",
+      "Kalista",
+      "Vi",
+      "Udyr",
+      "Gnar"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Nautilus",
+      "Orianna",
+      "Sejuani",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "K'Sante",
+      "Lucian",
+      "Milio",
+      "Lee Sin",
+      "Akali"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Top",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — Dplus KIA vs T1",
+    "patch": "14.2",
+    "winner": "T1",
+    "blue_team": "Dplus KIA",
+    "red_team": "T1",
+    "blue_bans": [
+      "Ashe",
+      "Neeko",
+      "Hwei",
+      "Nautilus",
+      "Gnar"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Senna",
+      "Kalista",
+      "Lee Sin",
+      "Viego"
+    ],
+    "blue_picks": [
+      "Karma",
+      "Xayah",
+      "Rakan",
+      "Vi",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Varus",
+      "Rell",
+      "Orianna",
+      "Aatrox",
+      "Tahm Kench"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — T1 vs Dplus KIA",
+    "patch": "14.2",
+    "winner": "Dplus KIA",
+    "blue_team": "T1",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Tristana",
+      "Senna",
+      "Karma",
+      "Taliyah",
+      "Twisted Fate"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Lucian",
+      "Neeko",
+      "Rell",
+      "Corki"
+    ],
+    "blue_picks": [
+      "Ashe",
+      "Kalista",
+      "K'Sante",
+      "Poppy",
+      "Azir"
+    ],
+    "red_picks": [
+      "Varus",
+      "Sejuani",
+      "Pyke",
+      "Gnar",
+      "Akali"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Bot",
+        "Top",
+        "Jungle",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — DRX vs Kwangdong Freecs",
+    "patch": "14.2",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "DRX",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Kalista",
+      "Varus",
+      "Hwei",
+      "Vi",
+      "Viego"
+    ],
+    "red_bans": [
+      "Sejuani",
+      "Orianna",
+      "Jarvan IV",
+      "Rell",
+      "Corki"
+    ],
+    "blue_picks": [
+      "Karma",
+      "Lucian",
+      "Milio",
+      "Maokai",
+      "Yone"
+    ],
+    "red_picks": [
+      "Senna",
+      "Azir",
+      "Nautilus",
+      "Lee Sin",
+      "K'Sante"
+    ],
+    "roles": {
+      "blue": [
+        "Top",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — DRX vs Kwangdong Freecs",
+    "patch": "14.2",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "DRX",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Kalista",
+      "Vi",
+      "Varus",
+      "K'Sante",
+      "Viego"
+    ],
+    "red_bans": [
+      "Sejuani",
+      "Orianna",
+      "Udyr",
+      "Jarvan IV",
+      "Xin Zhao"
+    ],
+    "blue_picks": [
+      "Karma",
+      "Lucian",
+      "Milio",
+      "Poppy",
+      "Corki"
+    ],
+    "red_picks": [
+      "Senna",
+      "Hwei",
+      "Nautilus",
+      "Lee Sin",
+      "Aatrox"
+    ],
+    "roles": {
+      "blue": [
+        "Top",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — Gen.G vs KT Rolster",
+    "patch": "14.2",
+    "winner": "KT Rolster",
+    "blue_team": "Gen.G",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Orianna",
+      "Vi",
+      "Taliyah",
+      "Tristana",
+      "Poppy"
+    ],
+    "red_bans": [
+      "Kalista",
+      "Corki",
+      "Maokai",
+      "Udyr",
+      "Sejuani"
+    ],
+    "blue_picks": [
+      "Karma",
+      "Lucian",
+      "Milio",
+      "Jarvan IV",
+      "Gwen"
+    ],
+    "red_picks": [
+      "Senna",
+      "Nautilus",
+      "K'Sante",
+      "Azir",
+      "Viego"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 4 — KT Rolster vs Gen.G",
+    "patch": "14.2",
+    "winner": "Gen.G",
+    "blue_team": "KT Rolster",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Maokai",
+      "Corki",
+      "Varus",
+      "Tristana",
+      "Yone"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Karma",
+      "Kalista",
+      "Vi",
+      "Viego"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Nautilus",
+      "K'Sante",
+      "Taliyah",
+      "Lee Sin"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Milio",
+      "Udyr",
+      "Azir",
+      "Xin Zhao"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — Gen.G vs FearX",
+    "patch": "14.1B",
+    "winner": "FearX",
+    "blue_team": "Gen.G",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Orianna",
+      "Rumble",
+      "Varus",
+      "Akali",
+      "Yasuo"
+    ],
+    "red_bans": [
+      "Maokai",
+      "Lucian",
+      "Senna",
+      "Poppy",
+      "Sejuani"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Renata Glasc",
+      "Azir",
+      "Rell",
+      "Darius"
+    ],
+    "red_picks": [
+      "Rakan",
+      "Xayah",
+      "Udyr",
+      "Yone",
+      "Brand"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Bot",
+        "Top",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — FearX vs Gen.G",
+    "patch": "14.1B",
+    "winner": "Gen.G",
+    "blue_team": "FearX",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Maokai",
+      "Sejuani",
+      "Varus",
+      "Aatrox",
+      "Poppy"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Rakan",
+      "K'Sante",
+      "Yasuo",
+      "Irelia"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Tahm Kench",
+      "Rumble",
+      "Wukong",
+      "Sylas"
+    ],
+    "red_picks": [
+      "Nautilus",
+      "Kalista",
+      "Corki",
+      "Rell",
+      "Jayce"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle",
+        "Mid"
+      ],
+      "red": [
+        "Support",
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — Hanwha Life Esports vs Nongshim RedForce",
+    "patch": "14.1B",
+    "winner": "Nongshim RedForce",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "K'Sante",
+      "Senna",
+      "Orianna",
+      "Ashe",
+      "Udyr"
+    ],
+    "red_bans": [
+      "Maokai",
+      "Vi",
+      "Lucian",
+      "Renata Glasc",
+      "Nautilus"
+    ],
+    "blue_picks": [
+      "Sejuani",
+      "Corki",
+      "Kalista",
+      "Aatrox",
+      "Rell"
+    ],
+    "red_picks": [
+      "Varus",
+      "Azir",
+      "Poppy",
+      "Rakan",
+      "Yone"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Mid",
+        "Bot",
+        "Top",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — Nongshim RedForce vs Hanwha Life Esports",
+    "patch": "14.1B",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Maokai",
+      "Vi",
+      "Sejuani",
+      "Akali",
+      "Yone"
+    ],
+    "red_bans": [
+      "K'Sante",
+      "Senna",
+      "Azir",
+      "Trundle",
+      "Nocturne"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Orianna",
+      "Udyr",
+      "Poppy"
+    ],
+    "red_picks": [
+      "Milio",
+      "Rell",
+      "Aphelios",
+      "Rumble",
+      "Tristana"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Support",
+        "Jungle",
+        "Bot",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — Nongshim RedForce vs Hanwha Life Esports",
+    "patch": "14.1B",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Maokai",
+      "Vi",
+      "Rumble",
+      "Orianna",
+      "Yone"
+    ],
+    "red_bans": [
+      "K'Sante",
+      "Senna",
+      "Azir",
+      "Trundle",
+      "Poppy"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Corki",
+      "Jax",
+      "Rell"
+    ],
+    "red_picks": [
+      "Milio",
+      "Sejuani",
+      "Aphelios",
+      "Tristana",
+      "Udyr"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Support",
+        "Jungle",
+        "Bot",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — OKSavingsBank BRION vs T1",
+    "patch": "14.1B",
+    "winner": "T1",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "T1",
+    "blue_bans": [
+      "Corki",
+      "Lucian",
+      "Kalista",
+      "Ornn",
+      "Nilah"
+    ],
+    "red_bans": [
+      "Maokai",
+      "Nautilus",
+      "Orianna",
+      "Aatrox",
+      "Sejuani"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Tristana",
+      "Rell",
+      "K'Sante",
+      "Gragas"
+    ],
+    "red_picks": [
+      "Senna",
+      "Taliyah",
+      "Vi",
+      "Sion",
+      "Zac"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — T1 vs OKSavingsBank BRION",
+    "patch": "14.1B",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "T1",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Maokai",
+      "Nautilus",
+      "Lee Sin",
+      "Vi",
+      "Viego"
+    ],
+    "red_bans": [
+      "Corki",
+      "Lucian",
+      "Kalista",
+      "Rell",
+      "Nocturne"
+    ],
+    "blue_picks": [
+      "Orianna",
+      "Caitlyn",
+      "Lux",
+      "K'Sante",
+      "Poppy"
+    ],
+    "red_picks": [
+      "Senna",
+      "Azir",
+      "Ornn",
+      "Jarvan IV",
+      "Aatrox"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — DRX vs KT Rolster",
+    "patch": "14.1B",
+    "winner": "KT Rolster",
+    "blue_team": "DRX",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Vi",
+      "Kalista",
+      "Rumble",
+      "Maokai",
+      "Lee Sin"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Sejuani",
+      "Rakan",
+      "Rell",
+      "Aatrox"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Tahm Kench",
+      "Azir",
+      "Gnar",
+      "Xin Zhao"
+    ],
+    "red_picks": [
+      "Varus",
+      "Orianna",
+      "Milio",
+      "Udyr",
+      "Viego"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — KT Rolster vs DRX",
+    "patch": "14.1B",
+    "winner": "DRX",
+    "blue_team": "KT Rolster",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Lucian",
+      "Sejuani",
+      "Vi",
+      "K'Sante",
+      "Rell"
+    ],
+    "red_bans": [
+      "Senna",
+      "Varus",
+      "Kalista",
+      "Caitlyn",
+      "Ezreal"
+    ],
+    "blue_picks": [
+      "Orianna",
+      "Lee Sin",
+      "Rumble",
+      "Jinx",
+      "Tahm Kench"
+    ],
+    "red_picks": [
+      "Xayah",
+      "Rakan",
+      "Azir",
+      "Aatrox",
+      "Jarvan IV"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — DRX vs KT Rolster",
+    "patch": "14.1B",
+    "winner": "KT Rolster",
+    "blue_team": "DRX",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Vi",
+      "Kalista",
+      "Taliyah",
+      "Orianna",
+      "Viego"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Varus",
+      "Jax",
+      "K'Sante",
+      "Akali"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Tahm Kench",
+      "Sejuani",
+      "Aatrox",
+      "Yone"
+    ],
+    "red_picks": [
+      "Rumble",
+      "Nautilus",
+      "Draven",
+      "Corki",
+      "Poppy"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Top",
+        "Support",
+        "Bot",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — Dplus KIA vs Hanwha Life Esports",
+    "patch": "14.1B",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "Dplus KIA",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Senna",
+      "Poppy",
+      "Milio",
+      "Pyke",
+      "Nautilus"
+    ],
+    "red_bans": [
+      "Rumble",
+      "Rell",
+      "Lucian",
+      "Sylas",
+      "LeBlanc"
+    ],
+    "blue_picks": [
+      "Vi",
+      "Varus",
+      "Ashe",
+      "Orianna",
+      "Gnar"
+    ],
+    "red_picks": [
+      "Corki",
+      "Kalista",
+      "Maokai",
+      "Renata Glasc",
+      "Jax"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — Dplus KIA vs Hanwha Life Esports",
+    "patch": "14.1B",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "Dplus KIA",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Poppy",
+      "Kalista",
+      "Milio",
+      "Udyr",
+      "Azir"
+    ],
+    "red_bans": [
+      "Rumble",
+      "Rell",
+      "Corki",
+      "Maokai",
+      "Sejuani"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Nautilus",
+      "Aatrox",
+      "Viego",
+      "LeBlanc"
+    ],
+    "red_picks": [
+      "Vi",
+      "Lucian",
+      "Nami",
+      "Gwen",
+      "Akali"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle",
+        "Mid"
+      ],
+      "red": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — Kwangdong Freecs vs Gen.G",
+    "patch": "14.1B",
+    "winner": "Gen.G",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Corki",
+      "Rumble",
+      "Varus",
+      "Tristana",
+      "K'Sante"
+    ],
+    "red_bans": [
+      "Senna",
+      "Orianna",
+      "Ashe",
+      "Taliyah",
+      "LeBlanc"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Vi",
+      "Akali",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Aphelios",
+      "Milio",
+      "Sejuani",
+      "Yone",
+      "Udyr"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — Kwangdong Freecs vs Gen.G",
+    "patch": "14.1B",
+    "winner": "Gen.G",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Corki",
+      "Rumble",
+      "Varus",
+      "Tristana",
+      "Azir"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Senna",
+      "Vi",
+      "Nocturne",
+      "Sejuani"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Orianna",
+      "Jarvan IV",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Aphelios",
+      "Milio",
+      "Rell",
+      "Neeko",
+      "K'Sante"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — FearX vs Nongshim RedForce",
+    "patch": "14.1B",
+    "winner": "Nongshim RedForce",
+    "blue_team": "FearX",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Poppy",
+      "Vi",
+      "Taliyah",
+      "Nocturne",
+      "Rell"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Lucian",
+      "Senna",
+      "Rumble",
+      "Sejuani"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Tahm Kench",
+      "Azir",
+      "Maokai",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Rakan",
+      "Orianna",
+      "Xayah",
+      "Viego",
+      "Yone"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Mid",
+        "Bot",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — Nongshim RedForce vs FearX",
+    "patch": "14.1B",
+    "winner": "FearX",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "FearX",
+    "blue_bans": [
+      "LeBlanc",
+      "Senna",
+      "Lucian",
+      "Akali",
+      "Rell"
+    ],
+    "red_bans": [
+      "Poppy",
+      "Taliyah",
+      "Varus",
+      "Aatrox",
+      "Nocturne"
+    ],
+    "blue_picks": [
+      "Orianna",
+      "Jinx",
+      "Tahm Kench",
+      "Viego",
+      "Gnar"
+    ],
+    "red_picks": [
+      "Rakan",
+      "Xayah",
+      "Rumble",
+      "K'Sante",
+      "Irelia"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Bot",
+        "Jungle",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — FearX vs Nongshim RedForce",
+    "patch": "14.1B",
+    "winner": "Nongshim RedForce",
+    "blue_team": "FearX",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Poppy",
+      "Vi",
+      "Varus",
+      "K'Sante",
+      "Udyr"
+    ],
+    "red_bans": [
+      "Milio",
+      "Nocturne",
+      "Senna",
+      "Rumble",
+      "Sejuani"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Orianna",
+      "Xin Zhao",
+      "Jax"
+    ],
+    "red_picks": [
+      "Xayah",
+      "Rakan",
+      "Azir",
+      "Rell",
+      "Aatrox"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — DRX vs T1",
+    "patch": "14.1B",
+    "winner": "T1",
+    "blue_team": "DRX",
+    "red_team": "T1",
+    "blue_bans": [
+      "Ashe",
+      "Kalista",
+      "Orianna",
+      "Nilah",
+      "Nocturne"
+    ],
+    "red_bans": [
+      "Maokai",
+      "Lucian",
+      "Nautilus",
+      "Sejuani",
+      "Poppy"
+    ],
+    "blue_picks": [
+      "Corki",
+      "Xayah",
+      "Rakan",
+      "K'Sante",
+      "Rell"
+    ],
+    "red_picks": [
+      "Senna",
+      "Neeko",
+      "Aatrox",
+      "Viego",
+      "Ornn"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Top",
+        "Jungle",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — T1 vs DRX",
+    "patch": "14.1B",
+    "winner": "DRX",
+    "blue_team": "T1",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Maokai",
+      "Kalista",
+      "Senna",
+      "Sejuani",
+      "Udyr"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Varus",
+      "Corki",
+      "Nocturne",
+      "Jarvan IV"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Orianna",
+      "Aatrox",
+      "Vi"
+    ],
+    "red_picks": [
+      "Aphelios",
+      "Milio",
+      "Azir",
+      "Rell",
+      "Jax"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — KT Rolster vs OKSavingsBank BRION",
+    "patch": "14.1B",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "KT Rolster",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Orianna",
+      "Kalista",
+      "Lucian",
+      "Renata Glasc",
+      "Rakan"
+    ],
+    "red_bans": [
+      "Corki",
+      "Varus",
+      "Rumble",
+      "Caitlyn",
+      "Ezreal"
+    ],
+    "blue_picks": [
+      "Udyr",
+      "Vi",
+      "Taliyah",
+      "Senna",
+      "Maokai"
+    ],
+    "red_picks": [
+      "Sejuani",
+      "Azir",
+      "Darius",
+      "Tahm Kench",
+      "Aphelios"
+    ],
+    "roles": {
+      "blue": [
+        "Top",
+        "Jungle",
+        "Mid",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Jungle",
+        "Mid",
+        "Top",
+        "Support",
+        "Bot"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — KT Rolster vs OKSavingsBank BRION",
+    "patch": "14.1B",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "KT Rolster",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Orianna",
+      "Rakan",
+      "Kalista",
+      "Renata Glasc",
+      "Alistar"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Poppy",
+      "Varus",
+      "Caitlyn",
+      "Ezreal"
+    ],
+    "blue_picks": [
+      "Corki",
+      "Vi",
+      "Rumble",
+      "Senna",
+      "Nautilus"
+    ],
+    "red_picks": [
+      "Tristana",
+      "Maokai",
+      "K'Sante",
+      "Xayah",
+      "Leona"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — Kwangdong Freecs vs Dplus KIA",
+    "patch": "14.1B",
+    "winner": "Dplus KIA",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Rell",
+      "Vi",
+      "Rumble",
+      "Aphelios",
+      "Maokai"
+    ],
+    "red_bans": [
+      "Corki",
+      "Ashe",
+      "Senna",
+      "Orianna",
+      "Viego"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Aatrox",
+      "Poppy",
+      "Taliyah"
+    ],
+    "red_picks": [
+      "Udyr",
+      "Milio",
+      "Tristana",
+      "Sejuani",
+      "Kog'Maw"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle",
+        "Mid"
+      ],
+      "red": [
+        "Top",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Bot"
+      ]
+    }
+  },
+  {
+    "match": "Week 3 — Kwangdong Freecs vs Dplus KIA",
+    "patch": "14.1B",
+    "winner": "Dplus KIA",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Rell",
+      "Vi",
+      "Rumble",
+      "Neeko",
+      "Tristana"
+    ],
+    "red_bans": [
+      "Corki",
+      "Ashe",
+      "K'Sante",
+      "Orianna",
+      "Azir"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Aatrox",
+      "Nautilus",
+      "Taliyah",
+      "Viego"
+    ],
+    "red_picks": [
+      "Udyr",
+      "Milio",
+      "Lucian",
+      "LeBlanc",
+      "Lee Sin"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Top",
+        "Support",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Top",
+        "Support",
+        "Bot",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — Hanwha Life Esports vs T1",
+    "patch": "14.1B",
+    "winner": "T1",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "T1",
+    "blue_bans": [
+      "Nocturne",
+      "Kalista",
+      "Lucian",
+      "Ashe",
+      "Aatrox"
+    ],
+    "red_bans": [
+      "Maokai",
+      "Sejuani",
+      "Rakan",
+      "Senna",
+      "Ezreal"
+    ],
+    "blue_picks": [
+      "Corki",
+      "Vi",
+      "K'Sante",
+      "Aphelios",
+      "Milio"
+    ],
+    "red_picks": [
+      "Varus",
+      "Rell",
+      "Orianna",
+      "Yone",
+      "Pyke"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — Hanwha Life Esports vs T1",
+    "patch": "14.1B",
+    "winner": "T1",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "T1",
+    "blue_bans": [
+      "Orianna",
+      "Varus",
+      "Lucian",
+      "Renata Glasc",
+      "Rumble"
+    ],
+    "red_bans": [
+      "Maokai",
+      "Vi",
+      "Sejuani",
+      "Udyr",
+      "K'Sante"
+    ],
+    "blue_picks": [
+      "Corki",
+      "Xayah",
+      "Rakan",
+      "Aatrox",
+      "Poppy"
+    ],
+    "red_picks": [
+      "Kalista",
+      "Neeko",
+      "Nocturne",
+      "Ashe",
+      "Yone"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — DRX vs OKSavingsBank BRION",
+    "patch": "14.1B",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "DRX",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Lucian",
+      "Senna",
+      "Renata Glasc",
+      "Yone",
+      "Tristana"
+    ],
+    "red_bans": [
+      "Orianna",
+      "K'Sante",
+      "Poppy",
+      "Jax",
+      "LeBlanc"
+    ],
+    "blue_picks": [
+      "Sejuani",
+      "Jinx",
+      "Tahm Kench",
+      "Aatrox",
+      "Akali"
+    ],
+    "red_picks": [
+      "Xayah",
+      "Rakan",
+      "Maokai",
+      "Azir",
+      "Renekton"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — OKSavingsBank BRION vs DRX",
+    "patch": "14.1B",
+    "winner": "DRX",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "DRX",
+    "blue_bans": [
+      "LeBlanc",
+      "K'Sante",
+      "Rakan",
+      "Jax",
+      "Ashe"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Senna",
+      "Renata Glasc",
+      "Kalista",
+      "Nautilus"
+    ],
+    "blue_picks": [
+      "Orianna",
+      "Poppy",
+      "Udyr",
+      "Aphelios",
+      "Milio"
+    ],
+    "red_picks": [
+      "Varus",
+      "Sejuani",
+      "Azir",
+      "Gnar",
+      "Bard"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Mid",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — DRX vs OKSavingsBank BRION",
+    "patch": "14.1B",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "DRX",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Lucian",
+      "Senna",
+      "Varus",
+      "Corki",
+      "Tristana"
+    ],
+    "red_bans": [
+      "Orianna",
+      "K'Sante",
+      "Poppy",
+      "Sejuani",
+      "Rell"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "Renata Glasc",
+      "Azir",
+      "Lee Sin",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Xayah",
+      "Rakan",
+      "Maokai",
+      "Akali",
+      "Yone"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — Nongshim RedForce vs Kwangdong Freecs",
+    "patch": "14.1B",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Rumble",
+      "Kalista",
+      "Ashe",
+      "Sejuani",
+      "Rell"
+    ],
+    "red_bans": [
+      "Udyr",
+      "Vi",
+      "Orianna",
+      "Xin Zhao",
+      "Maokai"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Azir",
+      "Nautilus",
+      "Viego",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Draven",
+      "Corki",
+      "Renata Glasc",
+      "Poppy",
+      "Trundle"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — Kwangdong Freecs vs Nongshim RedForce",
+    "patch": "14.1B",
+    "winner": "Nongshim RedForce",
+    "blue_team": "Kwangdong Freecs",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "Vi",
+      "Varus",
+      "Aphelios",
+      "Udyr",
+      "Sejuani"
+    ],
+    "red_bans": [
+      "Kalista",
+      "Rumble",
+      "Ashe",
+      "Aatrox",
+      "Xin Zhao"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Seraphine",
+      "Orianna",
+      "Nocturne",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Milio",
+      "Lucian",
+      "Azir",
+      "Jax",
+      "Trundle"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Bot",
+        "Mid",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — Dplus KIA vs Gen.G",
+    "patch": "14.1B",
+    "winner": "Gen.G",
+    "blue_team": "Dplus KIA",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Corki",
+      "K'Sante",
+      "Aphelios",
+      "Rell",
+      "Ivern"
+    ],
+    "red_bans": [
+      "Vi",
+      "Orianna",
+      "Rakan",
+      "Jayce",
+      "Yone"
+    ],
+    "blue_picks": [
+      "Maokai",
+      "Varus",
+      "Ashe",
+      "Azir",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Milio",
+      "Lucian",
+      "Tristana",
+      "Sejuani",
+      "Rumble"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — Gen.G vs Dplus KIA",
+    "patch": "14.1B",
+    "winner": "Dplus KIA",
+    "blue_team": "Gen.G",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Vi",
+      "Orianna",
+      "Rakan",
+      "LeBlanc",
+      "Akali"
+    ],
+    "red_bans": [
+      "Corki",
+      "Milio",
+      "Ashe",
+      "Azir",
+      "K'Sante"
+    ],
+    "blue_picks": [
+      "Maokai",
+      "Aphelios",
+      "Lulu",
+      "Udyr",
+      "Jayce"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Rell",
+      "Nami",
+      "Aatrox",
+      "Syndra"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — Gen.G vs Dplus KIA",
+    "patch": "14.1B",
+    "winner": "Dplus KIA",
+    "blue_team": "Gen.G",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Vi",
+      "Orianna",
+      "Kalista",
+      "Lee Sin",
+      "Rumble"
+    ],
+    "red_bans": [
+      "Corki",
+      "Maokai",
+      "Milio",
+      "Yone",
+      "Azir"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Sejuani",
+      "Ashe",
+      "K'Sante",
+      "Akali"
+    ],
+    "red_picks": [
+      "Xayah",
+      "Rakan",
+      "Sylas",
+      "Rell",
+      "Olaf"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — DRX vs FearX",
+    "patch": "14.1B",
+    "winner": "FearX",
+    "blue_team": "DRX",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Lucian",
+      "Draven",
+      "Renata Glasc",
+      "Wukong",
+      "Vi"
+    ],
+    "red_bans": [
+      "Poppy",
+      "Orianna",
+      "Ashe",
+      "Jax",
+      "Tahm Kench"
+    ],
+    "blue_picks": [
+      "Varus",
+      "LeBlanc",
+      "Sejuani",
+      "Nautilus",
+      "Udyr"
+    ],
+    "red_picks": [
+      "Rakan",
+      "K'Sante",
+      "Xayah",
+      "Gragas",
+      "Yasuo"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Support",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Top",
+        "Bot",
+        "Jungle",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — DRX vs FearX",
+    "patch": "14.1B",
+    "winner": "FearX",
+    "blue_team": "DRX",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Varus",
+      "Draven",
+      "Lucian",
+      "Wukong",
+      "Xin Zhao"
+    ],
+    "red_bans": [
+      "Poppy",
+      "Orianna",
+      "Kalista",
+      "Maokai",
+      "Corki"
+    ],
+    "blue_picks": [
+      "K'Sante",
+      "Jinx",
+      "Tahm Kench",
+      "Sejuani",
+      "LeBlanc"
+    ],
+    "red_picks": [
+      "Xayah",
+      "Rakan",
+      "Udyr",
+      "Azir",
+      "Rell"
+    ],
+    "roles": {
+      "blue": [
+        "Top",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — FearX vs DRX",
+    "patch": "14.1B",
+    "winner": "DRX",
+    "blue_team": "FearX",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Poppy",
+      "Orianna",
+      "Varus",
+      "Jax",
+      "Udyr"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Draven",
+      "Kalista",
+      "Taliyah",
+      "Wukong"
+    ],
+    "blue_picks": [
+      "K'Sante",
+      "Xayah",
+      "Rakan",
+      "Sejuani",
+      "Akali"
+    ],
+    "red_picks": [
+      "Azir",
+      "Senna",
+      "Tahm Kench",
+      "Maokai",
+      "Aatrox"
+    ],
+    "roles": {
+      "blue": [
+        "Top",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — KT Rolster vs T1",
+    "patch": "14.1B",
+    "winner": "T1",
+    "blue_team": "KT Rolster",
+    "red_team": "T1",
+    "blue_bans": [
+      "Vi",
+      "Corki",
+      "Ashe",
+      "Nocturne",
+      "Jarvan IV"
+    ],
+    "red_bans": [
+      "Senna",
+      "Kalista",
+      "Taliyah",
+      "Udyr",
+      "Jax"
+    ],
+    "blue_picks": [
+      "Milio",
+      "Aphelios",
+      "Azir",
+      "K'Sante",
+      "Xin Zhao"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Orianna",
+      "Nami",
+      "Rell",
+      "Aatrox"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Bot",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — T1 vs KT Rolster",
+    "patch": "14.1B",
+    "winner": "KT Rolster",
+    "blue_team": "T1",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Aphelios",
+      "Varus",
+      "Taliyah",
+      "Neeko",
+      "Orianna"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Kalista",
+      "Senna",
+      "Rell",
+      "Jarvan IV"
+    ],
+    "blue_picks": [
+      "Corki",
+      "Jinx",
+      "Tahm Kench",
+      "Poppy",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Xayah",
+      "Vi",
+      "Rakan",
+      "Akali",
+      "Gwen"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — KT Rolster vs T1",
+    "patch": "14.1B",
+    "winner": "T1",
+    "blue_team": "KT Rolster",
+    "red_team": "T1",
+    "blue_bans": [
+      "Varus",
+      "Corki",
+      "Vi",
+      "Lucian",
+      "Xayah"
+    ],
+    "red_bans": [
+      "Udyr",
+      "Senna",
+      "Jax",
+      "Renata Glasc",
+      "Sejuani"
+    ],
+    "blue_picks": [
+      "Kalista",
+      "K'Sante",
+      "Taliyah",
+      "Alistar",
+      "Viego"
+    ],
+    "red_picks": [
+      "Rumble",
+      "Azir",
+      "Lee Sin",
+      "Draven",
+      "Nautilus"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Top",
+        "Mid",
+        "Support",
+        "Jungle"
+      ],
+      "red": [
+        "Top",
+        "Mid",
+        "Jungle",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — OKSavingsBank BRION vs Gen.G",
+    "patch": "14.1B",
+    "winner": "Gen.G",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Varus",
+      "Kalista",
+      "Corki",
+      "Yone",
+      "Tristana"
+    ],
+    "red_bans": [
+      "Poppy",
+      "Orianna",
+      "Senna",
+      "Vi",
+      "Rell"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Azir",
+      "Lee Sin",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Aphelios",
+      "Milio",
+      "Maokai",
+      "Jayce",
+      "Udyr"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — OKSavingsBank BRION vs Gen.G",
+    "patch": "14.1B",
+    "winner": "Gen.G",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Rumble",
+      "Varus",
+      "Kalista",
+      "Maokai",
+      "Rell"
+    ],
+    "red_bans": [
+      "Poppy",
+      "Orianna",
+      "Lee Sin",
+      "Xin Zhao",
+      "Wukong"
+    ],
+    "blue_picks": [
+      "Senna",
+      "Seraphine",
+      "Azir",
+      "Graves",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Aphelios",
+      "Nautilus",
+      "Corki",
+      "K'Sante",
+      "Brand"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Bot",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — Nongshim RedForce vs Dplus KIA",
+    "patch": "14.1B",
+    "winner": "Dplus KIA",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "LeBlanc",
+      "Corki",
+      "Vi",
+      "Rumble",
+      "Orianna"
+    ],
+    "red_bans": [
+      "K'Sante",
+      "Azir",
+      "Ashe",
+      "Tristana",
+      "Udyr"
+    ],
+    "blue_picks": [
+      "Maokai",
+      "Senna",
+      "Seraphine",
+      "Jax",
+      "Taliyah"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Milio",
+      "Rell",
+      "Aatrox",
+      "Kassadin"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — Dplus KIA vs Nongshim RedForce",
+    "patch": "14.1B",
+    "winner": "Nongshim RedForce",
+    "blue_team": "Dplus KIA",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "K'Sante",
+      "Kalista",
+      "Azir",
+      "Poppy",
+      "Udyr"
+    ],
+    "red_bans": [
+      "Vi",
+      "Maokai",
+      "Ashe",
+      "Rumble",
+      "Syndra"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Rell",
+      "LeBlanc",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Orianna",
+      "Milio",
+      "Aphelios",
+      "Jax",
+      "Wukong"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Mid",
+        "Support",
+        "Bot",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — KT Rolster vs Kwangdong Freecs",
+    "patch": "14.1B",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "KT Rolster",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Sejuani",
+      "Rumble",
+      "Varus",
+      "Orianna",
+      "Taliyah"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Lucian",
+      "Neeko",
+      "Hwei",
+      "Caitlyn"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Maokai",
+      "Jax",
+      "Draven",
+      "Pyke"
+    ],
+    "red_picks": [
+      "Kalista",
+      "Renata Glasc",
+      "K'Sante",
+      "Corki",
+      "Lee Sin"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — KT Rolster vs Kwangdong Freecs",
+    "patch": "14.1B",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "KT Rolster",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Sejuani",
+      "Draven",
+      "Varus",
+      "Xayah",
+      "Tahm Kench"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Lucian",
+      "Kalista",
+      "Ezreal",
+      "Rakan"
+    ],
+    "blue_picks": [
+      "Orianna",
+      "Udyr",
+      "Nocturne",
+      "Caitlyn",
+      "Hwei"
+    ],
+    "red_picks": [
+      "Rumble",
+      "Vi",
+      "Azir",
+      "Senna",
+      "Jhin"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Top",
+        "Jungle",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Top",
+        "Jungle",
+        "Mid",
+        "Support",
+        "Bot"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — KT Rolster vs Kwangdong Freecs",
+    "patch": "14.1B",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "KT Rolster",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Sejuani",
+      "Draven",
+      "Varus",
+      "Caitlyn",
+      "Xayah"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Lucian",
+      "Kalista",
+      "Ezreal",
+      "Renata Glasc"
+    ],
+    "blue_picks": [
+      "Orianna",
+      "Vi",
+      "Udyr",
+      "Senna",
+      "Ornn"
+    ],
+    "red_picks": [
+      "Azir",
+      "Rumble",
+      "Viego",
+      "Aphelios",
+      "Tahm Kench"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Top",
+        "Jungle",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — Hanwha Life Esports vs FearX",
+    "patch": "14.1B",
+    "winner": "FearX",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Varus",
+      "Senna",
+      "Vi",
+      "Brand",
+      "Yone"
+    ],
+    "red_bans": [
+      "Poppy",
+      "Ashe",
+      "Sejuani",
+      "K'Sante",
+      "Jax"
+    ],
+    "blue_picks": [
+      "Milio",
+      "Maokai",
+      "Lucian",
+      "Tristana",
+      "Rumble"
+    ],
+    "red_picks": [
+      "Kalista",
+      "Udyr",
+      "Renata Glasc",
+      "Azir",
+      "Lee Sin"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Jungle",
+        "Bot",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Top",
+        "Support",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 2 — FearX vs Hanwha Life Esports",
+    "patch": "14.1B",
+    "winner": "Hanwha Life Esports",
+    "blue_team": "FearX",
+    "red_team": "Hanwha Life Esports",
+    "blue_bans": [
+      "Vi",
+      "Sejuani",
+      "Kalista",
+      "Jax",
+      "Maokai"
+    ],
+    "red_bans": [
+      "Varus",
+      "Milio",
+      "K'Sante",
+      "Wukong",
+      "Xin Zhao"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Senna",
+      "Nautilus",
+      "Gnar",
+      "Viego"
+    ],
+    "red_picks": [
+      "Corki",
+      "Lucian",
+      "Nami",
+      "Udyr",
+      "Poppy"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — Dplus KIA vs KT Rolster",
+    "patch": "14.1B",
+    "winner": "KT Rolster",
+    "blue_team": "Dplus KIA",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Azir",
+      "Neeko",
+      "Ashe",
+      "Taliyah",
+      "Sylas"
+    ],
+    "red_bans": [
+      "Maokai",
+      "Rakan",
+      "Kalista",
+      "Nocturne",
+      "Wukong"
+    ],
+    "blue_picks": [
+      "Orianna",
+      "Zeri",
+      "Yuumi",
+      "Sejuani",
+      "K'Sante"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Milio",
+      "Vi",
+      "Syndra",
+      "Gnar"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — KT Rolster vs Dplus KIA",
+    "patch": "14.1B",
+    "winner": "Dplus KIA",
+    "blue_team": "KT Rolster",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Rakan",
+      "Maokai",
+      "Kalista",
+      "Corki",
+      "LeBlanc"
+    ],
+    "red_bans": [
+      "Neeko",
+      "Orianna",
+      "Ashe",
+      "Poppy",
+      "Sejuani"
+    ],
+    "blue_picks": [
+      "Milio",
+      "Aphelios",
+      "Azir",
+      "Udyr",
+      "Xin Zhao"
+    ],
+    "red_picks": [
+      "Vi",
+      "Lucian",
+      "Nami",
+      "Akali",
+      "Rumble"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Bot",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — Dplus KIA vs KT Rolster",
+    "patch": "14.1B",
+    "winner": "KT Rolster",
+    "blue_team": "Dplus KIA",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Azir",
+      "Neeko",
+      "Ashe",
+      "Brand",
+      "Rumble"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Lucian",
+      "Corki",
+      "Jayce",
+      "Taliyah"
+    ],
+    "blue_picks": [
+      "Maokai",
+      "Xayah",
+      "Rakan",
+      "Syndra",
+      "Aatrox"
+    ],
+    "red_picks": [
+      "Kalista",
+      "Tristana",
+      "Renata Glasc",
+      "Ivern",
+      "K'Sante"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Bot",
+        "Support",
+        "Mid",
+        "Top"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — Hanwha Life Esports vs Kwangdong Freecs",
+    "patch": "14.1B",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Varus",
+      "Sejuani",
+      "Milio",
+      "Ashe",
+      "Renata Glasc"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Kalista",
+      "Orianna",
+      "Rell",
+      "Sivir"
+    ],
+    "blue_picks": [
+      "Maokai",
+      "Azir",
+      "K'Sante",
+      "Kai'Sa",
+      "Rakan"
+    ],
+    "red_picks": [
+      "Corki",
+      "Viego",
+      "Aatrox",
+      "Ezreal",
+      "Karma"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Mid",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — Hanwha Life Esports vs Kwangdong Freecs",
+    "patch": "14.1B",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "Varus",
+      "Sejuani",
+      "K'Sante",
+      "Renata Glasc",
+      "Vi"
+    ],
+    "red_bans": [
+      "Lucian",
+      "Kalista",
+      "Orianna",
+      "Blitzcrank",
+      "Caitlyn"
+    ],
+    "blue_picks": [
+      "Maokai",
+      "Aatrox",
+      "Azir",
+      "Zeri",
+      "Rakan"
+    ],
+    "red_picks": [
+      "Ashe",
+      "Corki",
+      "Jax",
+      "Rell",
+      "Milio"
+    ],
+    "roles": {
+      "blue": [
+        "Jungle",
+        "Top",
+        "Mid",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Mid",
+        "Top",
+        "Jungle",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — Gen.G vs Nongshim RedForce",
+    "patch": "14.1B",
+    "winner": "Nongshim RedForce",
+    "blue_team": "Gen.G",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "K'Sante",
+      "Vi",
+      "Kalista",
+      "Nautilus",
+      "Nilah"
+    ],
+    "red_bans": [
+      "Yone",
+      "Varus",
+      "Ashe",
+      "Darius",
+      "Poppy"
+    ],
+    "blue_picks": [
+      "Milio",
+      "Lucian",
+      "Taliyah",
+      "Olaf",
+      "Rell"
+    ],
+    "red_picks": [
+      "Tristana",
+      "Maokai",
+      "Udyr",
+      "Aphelios",
+      "Lulu"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Bot",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — Nongshim RedForce vs Gen.G",
+    "patch": "14.1B",
+    "winner": "Gen.G",
+    "blue_team": "Nongshim RedForce",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Corki",
+      "Varus",
+      "Maokai",
+      "Yone",
+      "Tristana"
+    ],
+    "red_bans": [
+      "Kalista",
+      "Vi",
+      "Ashe",
+      "Rell",
+      "K'Sante"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Azir",
+      "Udyr",
+      "Trundle"
+    ],
+    "red_picks": [
+      "Aphelios",
+      "Milio",
+      "Sejuani",
+      "Taliyah",
+      "Darius"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Jungle",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — FearX vs OKSavingsBank BRION",
+    "patch": "14.1B",
+    "winner": "OKSavingsBank BRION",
+    "blue_team": "FearX",
+    "red_team": "OKSavingsBank BRION",
+    "blue_bans": [
+      "Poppy",
+      "Sejuani",
+      "Milio",
+      "K'Sante",
+      "Braum"
+    ],
+    "red_bans": [
+      "Rumble",
+      "Yone",
+      "Rakan",
+      "Xin Zhao",
+      "Viego"
+    ],
+    "blue_picks": [
+      "Varus",
+      "Azir",
+      "Udyr",
+      "Nautilus",
+      "Wukong"
+    ],
+    "red_picks": [
+      "Orianna",
+      "Lee Sin",
+      "Ezreal",
+      "Renekton",
+      "Bard"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Top",
+        "Support",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Bot",
+        "Top",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — OKSavingsBank BRION vs FearX",
+    "patch": "14.1B",
+    "winner": "FearX",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Rumble",
+      "LeBlanc",
+      "Udyr",
+      "Sejuani",
+      "Maokai"
+    ],
+    "red_bans": [
+      "Poppy",
+      "Milio",
+      "Varus",
+      "Jax",
+      "Lee Sin"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Zeri",
+      "Lulu",
+      "Gwen",
+      "Xin Zhao"
+    ],
+    "red_picks": [
+      "Xayah",
+      "Rakan",
+      "Yone",
+      "K'Sante",
+      "Brand"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — T1 vs Kwangdong Freecs",
+    "patch": "14.1B",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "T1",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "K'Sante",
+      "Aphelios",
+      "Udyr",
+      "Neeko",
+      "Jax"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Renata Glasc",
+      "Orianna",
+      "Poppy",
+      "Rell"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Corki",
+      "Jarvan IV",
+      "Ornn"
+    ],
+    "red_picks": [
+      "Milio",
+      "Vi",
+      "Varus",
+      "Rumble",
+      "LeBlanc"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Jungle",
+        "Bot",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — T1 vs Kwangdong Freecs",
+    "patch": "14.1B",
+    "winner": "Kwangdong Freecs",
+    "blue_team": "T1",
+    "red_team": "Kwangdong Freecs",
+    "blue_bans": [
+      "K'Sante",
+      "Aphelios",
+      "Udyr",
+      "Jax",
+      "Azir"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Renata Glasc",
+      "Vi",
+      "Rumble",
+      "Nocturne"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Milio",
+      "Orianna",
+      "Yone",
+      "Rell"
+    ],
+    "red_picks": [
+      "Varus",
+      "Sejuani",
+      "Lulu",
+      "Aatrox",
+      "Hwei"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Jungle",
+        "Support",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — Hanwha Life Esports vs DRX",
+    "patch": "14.1B",
+    "winner": "DRX",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Orianna",
+      "Ashe",
+      "Udyr",
+      "Rumble",
+      "Jax"
+    ],
+    "red_bans": [
+      "Milio",
+      "Vi",
+      "Corki",
+      "K'Sante",
+      "Sejuani"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Kalista",
+      "Renata Glasc",
+      "Aatrox",
+      "Zac"
+    ],
+    "red_picks": [
+      "Tristana",
+      "Maokai",
+      "Varus",
+      "Senna",
+      "Gwen"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Mid",
+        "Jungle",
+        "Bot",
+        "Support",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — Hanwha Life Esports vs DRX",
+    "patch": "14.1B",
+    "winner": "DRX",
+    "blue_team": "Hanwha Life Esports",
+    "red_team": "DRX",
+    "blue_bans": [
+      "Orianna",
+      "Ashe",
+      "Udyr",
+      "Kalista",
+      "Rakan"
+    ],
+    "red_bans": [
+      "Milio",
+      "Vi",
+      "Corki",
+      "Sejuani",
+      "Azir"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "K'Sante",
+      "Yone",
+      "Rell"
+    ],
+    "red_picks": [
+      "Rumble",
+      "Maokai",
+      "Tristana",
+      "Aphelios",
+      "Lulu"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ],
+      "red": [
+        "Top",
+        "Jungle",
+        "Mid",
+        "Bot",
+        "Support"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — FearX vs KT Rolster",
+    "patch": "14.1B",
+    "winner": "KT Rolster",
+    "blue_team": "FearX",
+    "red_team": "KT Rolster",
+    "blue_bans": [
+      "Ashe",
+      "Azir",
+      "Varus",
+      "Neeko",
+      "Lee Sin"
+    ],
+    "red_bans": [
+      "Akali",
+      "Orianna",
+      "Lucian",
+      "Poppy",
+      "LeBlanc"
+    ],
+    "blue_picks": [
+      "Renata Glasc",
+      "Draven",
+      "Udyr",
+      "Viego",
+      "Syndra"
+    ],
+    "red_picks": [
+      "Kalista",
+      "Hwei",
+      "K'Sante",
+      "Xin Zhao",
+      "Taliyah"
+    ],
+    "roles": {
+      "blue": [
+        "Support",
+        "Bot",
+        "Top",
+        "Jungle",
+        "Mid"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — KT Rolster vs FearX",
+    "patch": "14.1B",
+    "winner": "FearX",
+    "blue_team": "KT Rolster",
+    "red_team": "FearX",
+    "blue_bans": [
+      "Akali",
+      "LeBlanc",
+      "Kalista",
+      "K'Sante",
+      "Gnar"
+    ],
+    "red_bans": [
+      "Poppy",
+      "Ashe",
+      "Vi",
+      "Bard",
+      "Nocturne"
+    ],
+    "blue_picks": [
+      "Orianna",
+      "Ezreal",
+      "Udyr",
+      "Hwei",
+      "Lee Sin"
+    ],
+    "red_picks": [
+      "Varus",
+      "Renata Glasc",
+      "Azir",
+      "Xin Zhao",
+      "Rumble"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Top",
+        "Support",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — OKSavingsBank BRION vs Dplus KIA",
+    "patch": "14.1B",
+    "winner": "Dplus KIA",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Ashe",
+      "Rumble",
+      "LeBlanc",
+      "Akali",
+      "Neeko"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Corki",
+      "Milio",
+      "Renata Glasc",
+      "Lulu"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Sejuani",
+      "Jax",
+      "Ezreal",
+      "Bard"
+    ],
+    "red_picks": [
+      "Vi",
+      "Rakan",
+      "Xayah",
+      "Poppy",
+      "Sylas"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Jungle",
+        "Support",
+        "Bot",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — OKSavingsBank BRION vs Dplus KIA",
+    "patch": "14.1B",
+    "winner": "Dplus KIA",
+    "blue_team": "OKSavingsBank BRION",
+    "red_team": "Dplus KIA",
+    "blue_bans": [
+      "Ashe",
+      "Rumble",
+      "LeBlanc",
+      "Taliyah",
+      "Akali"
+    ],
+    "red_bans": [
+      "Orianna",
+      "Corki",
+      "Milio",
+      "Poppy",
+      "Sejuani"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Kalista",
+      "Renata Glasc",
+      "Lee Sin",
+      "Jax"
+    ],
+    "red_picks": [
+      "Vi",
+      "Rakan",
+      "Xayah",
+      "Neeko",
+      "Gragas"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Jungle",
+        "Support",
+        "Bot",
+        "Mid",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — T1 vs Gen.G",
+    "patch": "14.1B",
+    "winner": "Gen.G",
+    "blue_team": "T1",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Vi",
+      "Corki",
+      "Lucian",
+      "Sejuani",
+      "Nocturne"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Renata Glasc",
+      "Orianna",
+      "Lee Sin",
+      "Poppy"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Jhin",
+      "Bard",
+      "Kennen",
+      "Bel'Veth"
+    ],
+    "red_picks": [
+      "Varus",
+      "Rakan",
+      "Yone",
+      "Udyr",
+      "Maokai"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — T1 vs Gen.G",
+    "patch": "14.1B",
+    "winner": "Gen.G",
+    "blue_team": "T1",
+    "red_team": "Gen.G",
+    "blue_bans": [
+      "Vi",
+      "Corki",
+      "Lucian",
+      "Brand",
+      "Taliyah"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Renata Glasc",
+      "Orianna",
+      "Milio",
+      "Bard"
+    ],
+    "blue_picks": [
+      "Azir",
+      "Lee Sin",
+      "Udyr",
+      "Nilah",
+      "Senna"
+    ],
+    "red_picks": [
+      "Varus",
+      "Rakan",
+      "K'Sante",
+      "Tristana",
+      "Maokai"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Jungle",
+        "Top",
+        "Bot",
+        "Support"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Top",
+        "Mid",
+        "Jungle"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — Gen.G vs T1",
+    "patch": "14.1B",
+    "winner": "T1",
+    "blue_team": "Gen.G",
+    "red_team": "T1",
+    "blue_bans": [
+      "Ashe",
+      "Renata Glasc",
+      "Orianna",
+      "Nocturne",
+      "Lee Sin"
+    ],
+    "red_bans": [
+      "Udyr",
+      "Rumble",
+      "Vi",
+      "Sejuani",
+      "Poppy"
+    ],
+    "blue_picks": [
+      "Corki",
+      "Aphelios",
+      "Lulu",
+      "K'Sante",
+      "Rell"
+    ],
+    "red_picks": [
+      "Lucian",
+      "Milio",
+      "Neeko",
+      "Jarvan IV",
+      "Gwen"
+    ],
+    "roles": {
+      "blue": [
+        "Mid",
+        "Bot",
+        "Support",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Jungle",
+        "Top"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — DRX vs Nongshim RedForce",
+    "patch": "14.1B",
+    "winner": "Nongshim RedForce",
+    "blue_team": "DRX",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "K'Sante",
+      "Azir",
+      "LeBlanc",
+      "Twisted Fate",
+      "Ahri"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Kalista",
+      "Orianna",
+      "Nocturne",
+      "Lee Sin"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Nami",
+      "Akali",
+      "Jax",
+      "Xin Zhao"
+    ],
+    "red_picks": [
+      "Milio",
+      "Vi",
+      "Aphelios",
+      "Udyr",
+      "Taliyah"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Support",
+        "Mid",
+        "Top",
+        "Jungle"
+      ],
+      "red": [
+        "Support",
+        "Jungle",
+        "Bot",
+        "Top",
+        "Mid"
+      ]
+    }
+  },
+  {
+    "match": "Week 1 — DRX vs Nongshim RedForce",
+    "patch": "14.1B",
+    "winner": "Nongshim RedForce",
+    "blue_team": "DRX",
+    "red_team": "Nongshim RedForce",
+    "blue_bans": [
+      "K'Sante",
+      "Kalista",
+      "LeBlanc",
+      "Skarner",
+      "Sejuani"
+    ],
+    "red_bans": [
+      "Ashe",
+      "Varus",
+      "Vi",
+      "Nocturne",
+      "Lee Sin"
+    ],
+    "blue_picks": [
+      "Lucian",
+      "Orianna",
+      "Nami",
+      "Poppy",
+      "Udyr"
+    ],
+    "red_picks": [
+      "Milio",
+      "Azir",
+      "Aphelios",
+      "Jax",
+      "Gnar"
+    ],
+    "roles": {
+      "blue": [
+        "Bot",
+        "Mid",
+        "Support",
+        "Jungle",
+        "Top"
+      ],
+      "red": [
+        "Support",
+        "Mid",
+        "Bot",
+        "Jungle",
+        "Top"
+      ]
+    }
+  }
+]
