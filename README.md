@@ -1,4 +1,4 @@
-# 🧠 LoL AI Draft Picker
+# LoL AI Draft Picker
 
 A machine learning-based draft pick assistant for **League of Legends**, trained to suggest optimal champion picks and roles based on professional play data.
 
@@ -6,10 +6,10 @@ A machine learning-based draft pick assistant for **League of Legends**, trained
 
 ## 🚀 Features
 
-- 🤖 Predicts **optimal champions** and **roles** using AI
-- 🏆 Trained on **historical LCK draft data**
-- 🧱 Modular architecture: scraping, preprocessing, training
-- 🔄 Easily extendable for new patches or metas
+- Predicts **optimal champions** and **roles** using AI
+- Trained on **historical LCK draft data**
+- Modular architecture: scraping, preprocessing, training
+- Easily extendable for new patches or metas
 
 ---
 
