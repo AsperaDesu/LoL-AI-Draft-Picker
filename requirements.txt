@@ -1,0 +1,6 @@
+torch
+tqdm
+pandas
+beautifulsoup4
+selenium
+requests
