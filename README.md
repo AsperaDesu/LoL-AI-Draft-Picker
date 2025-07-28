@@ -13,7 +13,7 @@ A machine learning-based draft pick assistant for **League of Legends**, trained
 
 ---
 
-## 📁 Requirements
+## Requirements
 
 Install dependencies with:
 
@@ -21,13 +21,13 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 ---
-## ☁️ How to Use on Google Colab (Cloud)
+## ☁How to Use on Google Colab (Cloud)
 You can run this project fully in the cloud using Google Colab — no local installation needed.
 
-👉 **Open** [Colab](https://colab.research.google.com/github/AsperaDesu/LoL-AI-Draft-Picker/blob/main/code/training.ipynb "Colab") to get started immediately.
+**Open** [Colab](https://colab.research.google.com/github/AsperaDesu/LoL-AI-Draft-Picker/blob/main/code/training.ipynb "Colab") to get started immediately.
 
 ---
-## 📦 How to Use (Locally)
+## How to Use (Locally)
 
 1. Clone the Repository
 	```bash
@@ -55,7 +55,7 @@ You can run this project fully in the cloud using Google Colab — no local inst
 	Run every cell in [training.ipynb](https://github.com/AsperaDesu/LoL-AI-Draft-Picker/blob/main/code/training.ipynb "training.ipynb") to start training the model.
 
 ---
-## ⚡ Optional: Skip Training
+## Optional: Skip Training
 
 If you don't want to retrain the model from scratch, you can use the pre-trained weights provided:
 
