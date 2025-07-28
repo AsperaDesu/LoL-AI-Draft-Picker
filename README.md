@@ -114,7 +114,7 @@ This is a project created to test my knowledge from [Andrej Karpathy's NN Playli
     plt.figure(figsize=(10, 6))
     plt.plot(loss_50_mean)
 ```
-<a href="https://ibb.co.com/ynTGFBpL"><img src="https://i.ibb.co.com/99XzH3hR/download-3.png" alt="Plot" border="0" width=550></a>
+<a href="https://ibb.co.com/ynTGFBpL"><img src="https://i.ibb.co.com/99XzH3hR/download-3.png" alt="Plot" border="0" width=700></a>
 ---
 
 ## What to be Improved
