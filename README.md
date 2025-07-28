@@ -15,24 +15,57 @@ A machine learning-based draft pick assistant for **League of Legends**, trained
 
 ## 📦 How to Use
 
-1. **Run** [`data_scraper.py`](https://github.com/AsperaDesu/LoL-AI-Draft-Picker/blob/main/code/data_scraper.py):
-    - You may modify the `URL` variable to target a different tournament.
-    ```python
-    import json
-    from tqdm import tqdm
+1. Clone the Repository
+```bash
+	   git clone https://github.com/AsperaDesu/LoL-AI-Draft-Picker.git
+	   cd LoL-AI-Draft-Picker
+```
 
-    URL = "https://lol.fandom.com/wiki/Special:RunQuery/PickBanHistory?PBH%5Bpage%5D=LCK+2024+Summer&PBH%5Btextonly%5D=Yes&_run="
-    HEADERS = {"User-Agent": "Mozilla/5.0"}
-    ```
+2. Run [data_scraper.py](https://github.com/AsperaDesu/LoL-AI-Draft-Picker/blob/main/code/data_scraper.py)
+   You may modify the URL variable to have a dataset of a different tournament.
 
-2. **Output**: A new `.json` file will be created in the `data/` folder. It contains scraped pick and ban data.
+	```python
+	import json
+	from tqdm import tqdm
 
-3. **Train the model**: Run every cell in [`training.ipynb`](https://github.com/AsperaDesu/LoL-AI-Draft-Picker/blob/main/code/training.ipynb) to start training the model.
+	URL = "https://lol.fandom.com/wiki/Special:RunQuery/PickBanHistory?PBH%5Bpage%5D=LCK+2024+Summer&PBH%5Btextonly%5D=Yes&_run="
+	HEADERS = {"User-Agent": "Mozilla/5.0"}
+
+	```
+3. Output
+
+   A new `.json` file will be created in the `data/` folder. It contains scraped pick and ban data.
+
+4. Train the Model
+
+	Run every cell in [training.ipynb](https://github.com/AsperaDesu/LoL-AI-Draft-Picker/blob/main/code/training.ipynb "training.ipynb") to start training the model.
+
+---
+## ⚡ Optional: Skip Training
+
+If you don't want to retrain the model from scratch, you can use the pre-trained weights provided:
+
+1. In  [training.ipynb](https://github.com/AsperaDesu/LoL-AI-Draft-Picker/blob/main/code/training.ipynb "training.ipynb"), skip the training cell and run the very bottom cell:
+
+	```python
+	model.load_state_dict(torch.load('model_weights.pth'))
+	model.eval()
+	```
+This skips the training process and lets you instantly run inference.
 
 ---
 
+## 📁 Requirements
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+---
+
 ## Overview
-This is a project created to test my knowledge from Andrej Karpathy's NN Playlist. Noticably the implementation of Self Attention and Transformer is majorly inspired from him. 
+This is a project created to test my knowledge from [Andrej Karpathy's NN Playlist](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ "Andrej Karpathy's NN Playlist"). Noticably, the implementation of Self Attention and Transformer in this project is majorly inspired from what he had covered. 
 ##### Core Components & Techniques
 - **Input Masking**
 	Inspired from how Transformers are masked where inputs are only known until the `N`-th element.
@@ -83,7 +116,7 @@ This is a project created to test my knowledge from Andrej Karpathy's NN Playlis
 <a href="https://ibb.co.com/ynTGFBpL"><img src="https://i.ibb.co.com/99XzH3hR/download-3.png" alt="Plot" border="0" width=550></a>
 --
 
-## What to be Improved
+##What to be Improved
 - [ ] Add full flex-pick role probability modeling
 - [ ] Model can reevaluate roles after a flex pick
 - [ ] Deploy as a public web app or Discord bot
@@ -98,4 +131,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Made by [@AsperaDesu](https://github.com/AsperaDesu) — the mind behind the project
+Made by [@AsperaDesu](https://github.com/AsperaDesu) — mind behind the project
