@@ -4,10 +4,10 @@ A machine learning-based draft pick assistant for **League of Legends**, trained
 
 ---
 
-## 🚀 Features
+## Features
 
-- Predicts **optimal champions** and **roles** using AI
-- Trained on **historical LCK draft data**
+- Predicts optimal champions and roles using AI
+- Trained on **historical LCK draft data** under a Transformer Model
 - Modular architecture: scraping, preprocessing, training
 - Easily extendable for new patches or metas
 
