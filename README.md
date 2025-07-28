@@ -22,7 +22,8 @@ pip install -r requirements.txt
 ```
 ---
 ## ☁️ How to Use on Google Colab (Cloud)
-You can run this project fully in the cloud using Google Colab — no local installation needed. 
+You can run this project fully in the cloud using Google Colab — no local installation needed.
+
 👉 **Open** [Colab](https://colab.research.google.com/github/AsperaDesu/LoL-AI-Draft-Picker/blob/main/code/training.ipynb "Colab") to get started immediately.
 
 ---
