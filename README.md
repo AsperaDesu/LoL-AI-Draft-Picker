@@ -83,7 +83,7 @@ This is a project created to test my knowledge from Andrej Karpathy's NN Playlis
 <a href="https://ibb.co.com/ynTGFBpL"><img src="https://i.ibb.co.com/99XzH3hR/download-3.png" alt="Plot" border="0" width=550></a>
 --
 
-##What to be Improved
+## What to be Improved
 - [ ] Add full flex-pick role probability modeling
 - [ ] Model can reevaluate roles after a flex pick
 - [ ] Deploy as a public web app or Discord bot
