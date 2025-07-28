@@ -105,16 +105,17 @@ This is a project created to test my knowledge from [Andrej Karpathy's NN Playli
 	Due to concerns that the set of champions that are appropriate to pick/ban combined don't have a high enough probability to make it consistent, we only sample the 20 highest logits.
 
 ## Loss Graph
+```python
     import matplotlib.pyplot as plt
-    
     lossi = torch.tensor(lossi)
     loss_50 = lossi.view(-1, 50)
     loss_50_mean = loss_50.mean(dim=1)
-    
+	
     plt.figure(figsize=(10, 6))
     plt.plot(loss_50_mean)
+```
 <a href="https://ibb.co.com/ynTGFBpL"><img src="https://i.ibb.co.com/99XzH3hR/download-3.png" alt="Plot" border="0" width=550></a>
---
+---
 
 ##What to be Improved
 - [ ] Add full flex-pick role probability modeling
