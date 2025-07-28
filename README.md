@@ -16,10 +16,10 @@ A machine learning-based draft pick assistant for **League of Legends**, trained
 ## 📦 How to Use
 
 1. Clone the Repository
-```bash
-	   git clone https://github.com/AsperaDesu/LoL-AI-Draft-Picker.git
-	   cd LoL-AI-Draft-Picker
-```
+	```bash
+	git clone https://github.com/AsperaDesu/LoL-AI-Draft-Picker.git
+	cd LoL-AI-Draft-Picker
+	```
 
 2. Run [data_scraper.py](https://github.com/AsperaDesu/LoL-AI-Draft-Picker/blob/main/code/data_scraper.py)
    You may modify the URL variable to have a dataset of a different tournament.
