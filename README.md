@@ -13,7 +13,20 @@ A machine learning-based draft pick assistant for **League of Legends**, trained
 
 ---
 
-## 📦 How to Use
+## 📁 Requirements
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+---
+## ☁️ How to Use on Google Colab (Cloud)
+You can run this project fully in the cloud using Google Colab — no local installation needed. 
+👉 **Open** [Colab](https://colab.research.google.com/github/AsperaDesu/LoL-AI-Draft-Picker/blob/main/code/training.ipynb "Colab") to get started immediately.
+
+---
+## 📦 How to Use (Locally)
 
 1. Clone the Repository
 	```bash
@@ -53,15 +66,6 @@ If you don't want to retrain the model from scratch, you can use the pre-trained
 	```
 This skips the training process and lets you instantly run inference.
 
----
-
-## 📁 Requirements
-
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
 ---
 
 ## Overview
@@ -117,7 +121,7 @@ This is a project created to test my knowledge from [Andrej Karpathy's NN Playli
 <a href="https://ibb.co.com/ynTGFBpL"><img src="https://i.ibb.co.com/99XzH3hR/download-3.png" alt="Plot" border="0" width=700></a>
 ---
 
-## What to be Improved
+## What to Improve
 - [ ] Add full flex-pick role probability modeling
 - [ ] Model can reevaluate roles after a flex pick
 - [ ] Deploy as a public web app or Discord bot
