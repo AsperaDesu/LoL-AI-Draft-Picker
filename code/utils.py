@@ -1,5 +1,3 @@
-HEADERS = {"User-Agent": "Mozilla/5.0"}
-
 import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -9,24 +7,20 @@ import pandas as pd
 import os
 import tempfile
 
-
-def get_champion_classes():
-    url = "https://leagueoflegends.fandom.com/wiki/List_of_champions"
-    resp = requests.get(url, headers=HEADERS)
-    soup = BeautifulSoup(resp.text, "html.parser")
-    table = soup.select_one("table.article-table")
+default_patch = '14.8.1'
+def get_champion_classes(patch=default_patch):
+    url = f"https://ddragon.leagueoflegends.com/cdn/{patch}/data/en_US/champion.json"
+    
+    resp = requests.get(url)
+    data = resp.json()["data"]
+    
     classes = {}
-    for row in table.select("tr")[1:]:
-        cols = row.find_all("td")
-        if len(cols) < 2:
-            continue
-        name = cols[0].get("data-sort-value")
-        raw = cols[1].get("data-sort-value")
-        if name and raw:
-            classes[name] = [c.strip() for c in raw.split(",")]
+    for champ, info in data.items():
+        classes[info["name"]] = info["tags"]
+    
     return classes
 
-def get_champion_scores(patch='14.5'):
+def get_champion_scores(patch=default_patch):
     url = f'https://www.metasrc.com/lol/{patch}/stats?ranks=grandmaster,challenger'
 
     temp_profile = tempfile.mkdtemp()
@@ -69,7 +63,7 @@ def get_champion_scores(patch='14.5'):
 
     return pd.DataFrame(data)
 
-def load_or_fetch_scores(patch='14.5'):
+def load_or_fetch_scores(patch=default_patch):
     file_path = f"champion_scores_{patch}.csv"
     if os.path.exists(file_path):
         print(f"Loading cached scores for patch {patch}")
@@ -88,9 +82,14 @@ def tokenize_draft(match, tokenizer):
     match["red_picks"] = tokenizer.encode(match["red_picks"])
     match["blue_bans"] = tokenizer.encode(match["blue_bans"])
     match["red_bans"] = tokenizer.encode(match["red_bans"])
-    return match  
+    return match
 
 def tokenize_roles(match, tokenizer):
     match["blue_roles"] = tokenizer.encodeRole(match['roles']['blue'])
     match["red_roles"] = tokenizer.encodeRole(match['roles']['red'])
-    return match  
+    return match
+
+def drop_raw_picks_bans(match):
+    for key in ["match", "blue_team", "red_team", "winner", "roles"]:
+        match.pop(key, None)
+    return match
